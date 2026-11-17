@@ -33,5 +33,13 @@ pytest
 
 ## Configuration
 
-Settings are read from environment variables (see `app/config.py`):
-`DATA_DIR`, `DOCUMENTS_DIR`, `API_HOST`, `API_PORT`, `MCP_HOST`, `MCP_PORT`, `MAX_RESULTS`.
+Settings are loaded from a `.env` file in the project root (see `app/config.py`).
+Create it from the template:
+
+```powershell
+Copy-Item .env.example .env
+```
+
+Available keys: `APP_NAME`, `DATA_DIR`, `DOCUMENTS_DIR`, `API_HOST`, `API_PORT`,
+`MCP_HOST`, `MCP_PORT`, `MAX_RESULTS`. Values are read with python-dotenv;
+missing keys fall back to defaults. `.env` is git-ignored.

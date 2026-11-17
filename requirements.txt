@@ -1,0 +1,6 @@
+# Runtime dependencies
+fastapi~=0.163.1          # REST API framework
+uvicorn[standard]~=0.54.0 # ASGI server that runs FastAPI / the MCP HTTP app
+mcp~=2.3.0                # Official MCP Python SDK (v2: FastMCP is now MCPServer)
+pypdf~=7.1.0              # PDF text extraction
+python-dotenv~=1.2.4     # Reads settings from the .env file
