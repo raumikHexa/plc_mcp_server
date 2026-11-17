@@ -25,6 +25,26 @@ python -m app.main
 
 Then open http://127.0.0.1:8000/health or the Swagger UI at http://127.0.0.1:8000/docs.
 
+## Run the MCP server
+
+```powershell
+python -m app.mcp_server.server
+```
+
+Endpoint: `http://127.0.0.1:8001/mcp` (Streamable HTTP, stateless). Tools, all read-only:
+
+| Tool | Purpose |
+|---|---|
+| `search_products(query)` | Products by name, line, size, options, description |
+| `get_product_details(product_id)` | Full record for one product |
+| `search_faqs(query)` | FAQ answers (lead times, ordering, customization, returns) |
+| `get_company_info()` | Company profile and contact details |
+| `search_documents(query)` | Passages from TXT/PDF files, with filename and page |
+| `search_fragrances(query)` | Fragrance library by name, notes, family, top seller, number |
+
+To expose it through a tunnel, add the tunnel's hostname to `MCP_ALLOWED_HOSTS`
+in `.env`; requests with any other `Host` header are rejected (HTTP 421).
+
 ## Run tests
 
 ```powershell

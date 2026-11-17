@@ -35,6 +35,11 @@ def _get_int(key: str, default: int) -> int:
         raise ValueError(f"Invalid value in {ENV_FILE.name}: {key}={raw!r} must be a whole number") from None
 
 
+def _get_list(key: str) -> list[str]:
+    """Comma-separated value -> list of trimmed, non-empty items."""
+    return [item.strip() for item in _get(key, "").split(",") if item.strip()]
+
+
 @dataclass(frozen=True)
 class Settings:
     app_name: str
@@ -44,6 +49,7 @@ class Settings:
     api_port: int
     mcp_host: str
     mcp_port: int
+    mcp_allowed_hosts: tuple[str, ...]
     max_results: int
 
 
@@ -55,5 +61,6 @@ settings = Settings(
     api_port=_get_int("API_PORT", 8000),
     mcp_host=_get("MCP_HOST", "127.0.0.1"),
     mcp_port=_get_int("MCP_PORT", 8001),
+    mcp_allowed_hosts=tuple(_get_list("MCP_ALLOWED_HOSTS")),
     max_results=_get_int("MAX_RESULTS", 5),
 )
