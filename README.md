@@ -45,6 +45,19 @@ Endpoint: `http://127.0.0.1:8001/mcp` (Streamable HTTP, stateless). Tools, all r
 To expose it through a tunnel, add the tunnel's hostname to `MCP_ALLOWED_HOSTS`
 in `.env`; requests with any other `Host` header are rejected (HTTP 421).
 
+## Logs
+
+Each server writes to the console and to a rotating text file in `logs/`
+(`mcp_server.log`, `api.log`), configured by `LOG_*` keys in `.env`.
+Every MCP tool call is one line under the `app.tool_calls` logger:
+
+```
+2026-11-17 17:44:36 INFO    app.tool_calls: tool=search_products args={"query": "matte black reed diffuser"} status=ok results=5 top=[...] duration_ms=1.5
+2026-11-17 17:44:36 WARNING app.tool_calls: tool=get_product_details args={"product_id": "nope"} status=error error="Product 'nope' was not found." duration_ms=0.3
+```
+
+Show only tool calls: `Select-String "app.tool_calls" logs\mcp_server.log`
+
 ## Run tests
 
 ```powershell

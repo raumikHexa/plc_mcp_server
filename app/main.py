@@ -24,4 +24,8 @@ def health() -> dict[str, str]:
 if __name__ == "__main__":
     import uvicorn
 
-    uvicorn.run("app.main:app", host=settings.api_host, port=settings.api_port, reload=True)
+    from app.logging_config import setup_logging
+
+    setup_logging("api")
+    # log_config=None: uvicorn's own log lines go through our handlers (console + logs/api.log).
+    uvicorn.run(app, host=settings.api_host, port=settings.api_port, log_config=None)

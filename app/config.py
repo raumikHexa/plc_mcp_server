@@ -40,6 +40,16 @@ def _get_list(key: str) -> list[str]:
     return [item.strip() for item in _get(key, "").split(",") if item.strip()]
 
 
+LOG_LEVELS = ("DEBUG", "INFO", "WARNING", "ERROR", "CRITICAL")
+
+
+def _get_log_level(key: str, default: str) -> str:
+    level = _get(key, default).upper()
+    if level not in LOG_LEVELS:
+        raise ValueError(f"Invalid value in {ENV_FILE.name}: {key}={level!r} must be one of {', '.join(LOG_LEVELS)}")
+    return level
+
+
 @dataclass(frozen=True)
 class Settings:
     app_name: str
@@ -51,6 +61,10 @@ class Settings:
     mcp_port: int
     mcp_allowed_hosts: tuple[str, ...]
     max_results: int
+    log_dir: Path
+    log_level: str
+    log_max_mb: int
+    log_backup_count: int
 
 
 settings = Settings(
@@ -63,4 +77,8 @@ settings = Settings(
     mcp_port=_get_int("MCP_PORT", 8001),
     mcp_allowed_hosts=tuple(_get_list("MCP_ALLOWED_HOSTS")),
     max_results=_get_int("MAX_RESULTS", 5),
+    log_dir=Path(_get("LOG_DIR", str(PROJECT_ROOT / "logs"))),
+    log_level=_get_log_level("LOG_LEVEL", "INFO"),
+    log_max_mb=_get_int("LOG_MAX_MB", 5),
+    log_backup_count=_get_int("LOG_BACKUP_COUNT", 5),
 )
