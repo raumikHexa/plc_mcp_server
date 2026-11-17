@@ -1,0 +1,84 @@
+[
+  {
+    "id": "PND-001",
+    "name": "Peak Pendant",
+    "category": "Pendant Lights",
+    "materials": ["Brushed Brass", "Opal Glass"],
+    "finishes": ["Brushed Brass", "Matte Black", "Satin Nickel"],
+    "dimensions": {
+      "height_mm": 420,
+      "diameter_mm": 300,
+      "drop_length_max_mm": 2000,
+      "weight_kg": 2.8
+    },
+    "description": "A sculptural cone-shaped pendant with a brushed brass shade and an opal glass diffuser that softens the light. Designed as a statement piece over dining tables and kitchen islands.",
+    "specifications": {
+      "light_source": "Integrated LED",
+      "wattage": "18 W",
+      "lumens": "1450 lm",
+      "color_temperature": "2700 K (warm white)",
+      "cri": "90+",
+      "voltage": "220-240 V AC",
+      "dimmable": "Yes (trailing-edge / TRIAC)",
+      "ip_rating": "IP20 (indoor, dry locations)",
+      "cable": "Adjustable braided cable, up to 2 m",
+      "warranty": "3 years"
+    },
+    "suitable_for": ["Dining rooms", "Kitchen islands", "Hospitality lobbies"]
+  },
+  {
+    "id": "PND-002",
+    "name": "Balance Pendant",
+    "category": "Pendant Lights",
+    "materials": ["Powder-Coated Aluminium", "Solid Oak"],
+    "finishes": ["Matte White / Natural Oak", "Matte Black / Smoked Oak"],
+    "dimensions": {
+      "length_mm": 1200,
+      "width_mm": 60,
+      "height_mm": 80,
+      "drop_length_max_mm": 2500,
+      "weight_kg": 4.1
+    },
+    "description": "A slim linear pendant that balances a powder-coated aluminium body with a solid oak top. Provides even, glare-free light for long tables, workspaces and meeting rooms.",
+    "specifications": {
+      "light_source": "Integrated LED strip with micro-prismatic diffuser",
+      "wattage": "32 W",
+      "lumens": "3200 lm",
+      "color_temperature": "3000 K or 4000 K (selectable)",
+      "cri": "90+",
+      "voltage": "220-240 V AC",
+      "dimmable": "Yes (DALI or 0-10 V on request)",
+      "ip_rating": "IP20 (indoor, dry locations)",
+      "cable": "Twin steel suspension wires, up to 2.5 m",
+      "warranty": "3 years"
+    },
+    "suitable_for": ["Meeting rooms", "Long dining tables", "Offices"]
+  },
+  {
+    "id": "PND-003",
+    "name": "Veer Pendant",
+    "category": "Pendant Lights",
+    "materials": ["Hand-Blown Glass", "Brass"],
+    "finishes": ["Clear Glass / Polished Brass", "Smoked Glass / Antique Brass", "Amber Glass / Brushed Brass"],
+    "dimensions": {
+      "height_mm": 350,
+      "diameter_mm": 220,
+      "drop_length_max_mm": 1800,
+      "weight_kg": 1.9
+    },
+    "description": "An asymmetric hand-blown glass globe that appears to veer off-centre, held by a slender brass stem. Each piece is mouth-blown, so small variations make every lamp unique. Works individually or in clusters.",
+    "specifications": {
+      "light_source": "E27 LED bulb (not included)",
+      "wattage": "Max 12 W LED",
+      "lumens": "Depends on bulb (approx. 800-1000 lm recommended)",
+      "color_temperature": "Depends on bulb (2700 K recommended)",
+      "cri": "Depends on bulb",
+      "voltage": "220-240 V AC",
+      "dimmable": "Yes, with a dimmable LED bulb",
+      "ip_rating": "IP20 (indoor, dry locations)",
+      "cable": "Fabric-covered cable, up to 1.8 m",
+      "warranty": "2 years (glass excluded from breakage after delivery)"
+    },
+    "suitable_for": ["Living rooms", "Bedside lighting", "Cafés and restaurants", "Cluster installations"]
+  }
+]

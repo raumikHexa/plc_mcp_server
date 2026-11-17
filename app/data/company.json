@@ -1,0 +1,31 @@
+{
+  "name": "Lumen & Line Studio",
+  "tagline": "Decorative lighting, designed to be lived with.",
+  "description": "Lumen & Line Studio is a fictional design-led decorative lighting company used as sample data for this prototype. It designs and manufactures pendant lights and other decorative fixtures for homes, hospitality and commercial interiors, combining natural materials such as brass, oak and hand-blown glass with efficient LED technology.",
+  "industry": "Decorative Lighting / Interior Design",
+  "founded": 2016,
+  "headquarters": "Fictional City, Sample Country",
+  "website": "https://www.lumenandline.example",
+  "contact": {
+    "email": "hello@lumenandline.example",
+    "support_email": "support@lumenandline.example",
+    "projects_email": "projects@lumenandline.example",
+    "phone": "+1-555-0142",
+    "address": "12 Sample Street, Fictional City, Sample Country",
+    "business_hours": "Monday-Friday, 09:00-18:00"
+  },
+  "product_categories": [
+    "Pendant Lights",
+    "Wall Lights",
+    "Ceiling Lights",
+    "Floor Lamps",
+    "Table Lamps",
+    "Custom Project Lighting"
+  ],
+  "services": [
+    "Lighting design consultation",
+    "Custom and bespoke fixtures for projects",
+    "Trade and hospitality supply"
+  ],
+  "note": "All company details are fictional sample data. Replace with real client information when available."
+}
