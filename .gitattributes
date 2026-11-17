@@ -1,0 +1,4 @@
+# Never convert line endings in binary files (would corrupt PDFs)
+*.pdf binary
+*.png binary
+*.jpg binary
