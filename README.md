@@ -31,6 +31,21 @@ Then open http://127.0.0.1:8000/health or the Swagger UI at http://127.0.0.1:800
 pytest
 ```
 
+## Data: importing the catalogue
+
+Product, FAQ and fragrance data come from the public website of Private Label
+Candles (privatelabelcandles.com), in two steps:
+
+```powershell
+python -m scripts.import_catalogue download   # fetch raw files into app/data/raw (slow, rate-limit friendly)
+python -m scripts.import_catalogue build      # raw files -> app/data/products.json, faqs.json, fragrances.json
+```
+
+- `app/data/raw/` holds unedited snapshots (proof of source; `_meta.json` records the download date).
+- `build` is offline and repeatable; cleaning rules live in `scripts/import_catalogue.py`.
+- `app/data/company.json` is maintained by hand from the same pages.
+- Prices carry a `prices_as_of` date; the FAQ is treated as the source of truth where pages disagree.
+
 ## Configuration
 
 Settings are loaded from a `.env` file in the project root (see `app/config.py`).

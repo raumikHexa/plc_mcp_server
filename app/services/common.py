@@ -32,6 +32,12 @@ class ProductNotFoundError(NotFoundError):
         self.product_id = product_id
 
 
+class FragranceNotFoundError(NotFoundError):
+    def __init__(self, number: int) -> None:
+        super().__init__(f"Fragrance #{number} was not found.")
+        self.number = number
+
+
 class InvalidQueryError(ServiceError):
     """A search query is empty or contains no searchable words."""
 

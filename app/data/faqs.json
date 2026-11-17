@@ -1,58 +1,212 @@
 [
   {
     "id": "FAQ-001",
-    "category": "Warranty",
-    "question": "What warranty do your lights come with?",
-    "answer": "Integrated LED fixtures (such as the Peak and Balance pendants) carry a 3-year warranty covering manufacturing defects in the fixture and LED module. Fixtures that use replaceable bulbs (such as the Veer pendant) carry a 2-year warranty; bulbs and glass breakage after delivery are not covered. To make a claim, email support with your order number and photos of the issue.",
-    "tags": ["warranty", "guarantee", "defect", "claim", "repair", "replacement"]
+    "category": "General",
+    "question": "Where are your products manufactured?",
+    "answer": "Our products are proudly crafted in Central Florida. Each candle is crafted with a focus on high quality.",
+    "tags": []
   },
   {
     "id": "FAQ-002",
-    "category": "Materials",
-    "question": "What materials are your products made from?",
-    "answer": "We work mainly with brass (brushed, polished and antique finishes), powder-coated aluminium, solid oak, opal glass and hand-blown glass. Exact materials and available finishes are listed for each product in the catalogue.",
-    "tags": ["materials", "brass", "aluminium", "aluminum", "oak", "wood", "glass", "finish"]
+    "category": "General",
+    "question": "What is private label manufacturing?",
+    "answer": "Private label manufacturing means we produce products for your business that are sold under your brand name. You can customize various aspects, including the scent, design, and packaging, to align with your brand identity. This allows you to offer unique, branded products without managing the manufacturing process.",
+    "tags": []
   },
   {
     "id": "FAQ-003",
-    "category": "Customization",
-    "question": "Can I customize a light, for example a different finish, size or cable length?",
-    "answer": "Yes. Most products can be customized with alternative finishes, custom cable or drop lengths, different colour temperatures and, for project orders, bespoke sizes. Custom orders typically add 2-3 weeks to the lead time and may have a minimum order quantity. Contact our projects team with your requirements for a quote.",
-    "tags": ["customization", "customisation", "custom", "bespoke", "finish", "size", "cable", "length", "colour", "color"]
+    "category": "General",
+    "question": "What types of products do you offer for private labeling?",
+    "answer": "We specialize in candles, reed diffusers, wax melts, room sprays, and other premium scented products. Each product is customizable to reflect your brand's vision and style.",
+    "tags": []
   },
   {
     "id": "FAQ-004",
-    "category": "Shipping",
-    "question": "How long does shipping take and where do you deliver?",
-    "answer": "In-stock items are dispatched within 3-5 business days. Domestic delivery usually takes a further 2-5 business days. We also ship internationally; delivery times and costs depend on the destination and are confirmed at checkout or in your quote. All glass products are shipped in protective packaging.",
-    "tags": ["shipping", "delivery", "dispatch", "international", "lead", "time", "courier", "packaging"]
+    "category": "General",
+    "question": "What industries do you serve with private label products?",
+    "answer": "We serve a variety of industries, including retail, spas, hotels, event planners, gift shops, and corporate businesses. Our products are tailored to suit diverse markets and customer needs.",
+    "tags": []
   },
   {
     "id": "FAQ-005",
-    "category": "Installation",
-    "question": "How are the pendant lights installed? Do I need an electrician?",
-    "answer": "All our fixtures are mains-voltage products and must be installed by a qualified electrician in line with local wiring regulations. Each product ships with a ceiling canopy, mounting bracket and printed installation instructions. Drop length can be adjusted on site.",
-    "tags": ["installation", "install", "electrician", "mounting", "ceiling", "wiring", "canopy", "setup"]
+    "category": "General",
+    "question": "How does the private label process work?",
+    "answer": "The process begins with a consultation to determine your product needs and branding preferences. From there, you can choose to work directly with us for a fully guided experience or use our 3D configurator to design your product online and check out without assistance. If you'd like, you can also request a final mockup from our in-house designers after using the 3D configurator to ensure every detail meets your expectations before production begins.",
+    "tags": []
   },
   {
     "id": "FAQ-006",
-    "category": "Products",
-    "question": "Are your lights dimmable?",
-    "answer": "Yes. The Peak pendant is dimmable with trailing-edge (TRIAC) dimmers. The Balance pendant supports TRIAC dimming as standard, with DALI or 0-10 V available on request. The Veer pendant is dimmable when used with a dimmable LED bulb.",
-    "tags": ["dimmable", "dimmer", "dimming", "dali", "triac", "brightness"]
+    "category": "Lead Times",
+    "question": "What are your lead times for full orders?",
+    "answer": "Our lead time for full orders is 6-8 weeks , based on inventory availability and order quantities. Larger orders may increase lead time. Orders that include custom fragrances, jars, or packaging not regularly stocked may also require a longer lead time. If you have specific deadlines, please reach out, and we’ll do our best to accommodate your timeline.",
+    "tags": []
   },
   {
     "id": "FAQ-007",
-    "category": "Products",
-    "question": "Can your lights be used outdoors or in bathrooms?",
-    "answer": "Our current pendant range is rated IP20, which means it is suitable for indoor, dry locations only. It should not be installed outdoors, in bathrooms or in other damp areas.",
-    "tags": ["outdoor", "outside", "bathroom", "ip", "rating", "waterproof", "damp", "wet"]
+    "category": "Lead Times",
+    "question": "What are your lead times for custom samples?",
+    "answer": "Our lead time for custom samples is typically 1-2 weeks , but this may vary depending on fragrance selection and inventory availability.",
+    "tags": []
   },
   {
     "id": "FAQ-008",
-    "category": "Orders",
-    "question": "What is your return policy?",
-    "answer": "Standard, unused products in their original packaging can be returned within 30 days of delivery. Custom or bespoke orders cannot be returned unless faulty. Please contact support to arrange a return.",
-    "tags": ["return", "returns", "refund", "exchange", "cancel"]
+    "category": "Lead Times",
+    "question": "What are your lead times for fragrance sample boxes?",
+    "answer": "Our lead time for fragrance samples is typically 2-3 business days.",
+    "tags": []
+  },
+  {
+    "id": "FAQ-009",
+    "category": "Lead Times",
+    "question": "What are your lead times for custom fragrance development?",
+    "answer": "Our lead time for custom fragrance development is 3-8 weeks , depending on how many revisions are needed to achieve the desired scent. If you have specific requirements or deadlines, please let us know, and we’ll work to accommodate your timeline.",
+    "tags": []
+  },
+  {
+    "id": "FAQ-010",
+    "category": "Lead Times",
+    "question": "Do you offer rush services?",
+    "answer": "Yes, we do offer an expedite service . Utilizing our rush service can reduce the lead time from 6-8 weeks down to 3-4 weeks . The price for expediting an order starts at $250 for a minimum order and may increase depending on order quantity or product type.\nPlease note, during our peak season (October–December), expedite services may be suspended due to the high volume of orders in queue.\nFor more information or to discuss rushing your order, feel free to contact us directly .",
+    "tags": []
+  },
+  {
+    "id": "FAQ-011",
+    "category": "Ordering",
+    "question": "How can I check the status of my order?",
+    "answer": "An email will be sent with your tracking information once your order has shipped.\nYou can also email customerservice@privatelabelcandles.com to get status updates on your order.",
+    "tags": []
+  },
+  {
+    "id": "FAQ-012",
+    "category": "Ordering",
+    "question": "Can I make changes to my order after it’s been placed?",
+    "answer": "If you have chosen to proceed without a final mock up from our design team, you may be able to make changes to your order within 24 hours of placing it by emailing customerservice@privatelabelcandles.com .\nIf you have chosen to receive a final mockup before production, changes can be made to your selection any time before your final approval. Once you have approved your mockups with design, you will not be able to make changes.",
+    "tags": []
+  },
+  {
+    "id": "FAQ-013",
+    "category": "Ordering",
+    "question": "Can I order smaller quantities?",
+    "answer": "Depending on the option you are ordering, you may be able to order less than the standard minimum. For any orders lower than the MOQ, the price per unit will increase.",
+    "tags": []
+  },
+  {
+    "id": "FAQ-014",
+    "category": "3D Product Designer",
+    "question": "What is the 3d product designer?",
+    "answer": "Our 3D Product Designer is an interactive tool that allows you to visualize and customize your private-label products in real time. You can experiment with different vessel styles, colors, labels, and packaging options to create a product that perfectly represents your brand before production begins.",
+    "tags": []
+  },
+  {
+    "id": "FAQ-015",
+    "category": "3D Product Designer",
+    "question": "Will I get a mock-up picture before the order is produced?",
+    "answer": "You will receive a mock up picture within 1 - 2 weeks after your order is placed.",
+    "tags": []
+  },
+  {
+    "id": "FAQ-016",
+    "category": "3D Product Designer",
+    "question": "Can I save my design and come back later?",
+    "answer": "Yes, you can save your custom designs and revisit them anytime before placing an order. This allows you to edit your product until it's exactly how you want it.",
+    "tags": []
+  },
+  {
+    "id": "FAQ-017",
+    "category": "3D Product Designer",
+    "question": "What if I want to change my payment method?",
+    "answer": "No problem! If you placed your order through our website, you can select your preferred payment method during checkout. If you are placing your order through one of our customer service agents, they will provide you with the available payment options.\nIf you would like to change your payment method before payment has been made, simply contact our team and we will be happy to assist you.",
+    "tags": []
+  },
+  {
+    "id": "FAQ-018",
+    "category": "3D Product Designer",
+    "question": "Can I change the quantity after the order has been placed?",
+    "answer": "Depending on the option you are ordering, you may be able to order less than the standard minimum. For any orders lower than the MOQ, the price per unit will increase.",
+    "tags": []
+  },
+  {
+    "id": "FAQ-019",
+    "category": "3D Product Designer",
+    "question": "Help! I need this order rushed. How can I get it expedited?",
+    "answer": "Expedite services are offered on most orders. Depending on the size of the order, product type, and how soon you need it, the expedite fee may vary. Expedite Fees start at $200.",
+    "tags": []
+  },
+  {
+    "id": "FAQ-020",
+    "category": "3D Product Designer",
+    "question": "It isn't letting me upload my logo",
+    "answer": "If you're experiencing issues uploading your logo, please check the following:\n- File Format Matters:\n- File Size: Ensure your image is 5MB or smaller for a smooth upload.\n- Transparent Background: For clean, background-free prints, use a PNG file .\n- Browser Compatibility: Use an updated browser (Chrome, Firefox, Safari, or Edge) for the best performance.\n- Internet Connection: A slow connection may cause upload delays—try refreshing the page.\nIf you're still having trouble, reach out to our support team , and we'll be happy to assist you! 😊",
+    "tags": []
+  },
+  {
+    "id": "FAQ-021",
+    "category": "3D Product Designer",
+    "question": "What if I need a completely custom design that’s not in the 3d tool?",
+    "answer": "No problem! If you need something beyond the available customization options , our team can work with you to develop a fully custom candle design that meets your brand’s unique needs. Please give us a call at 786.991.2260.",
+    "tags": []
+  },
+  {
+    "id": "FAQ-022",
+    "category": "Customization & Design",
+    "question": "Do you offer design assistance for labels and packaging?",
+    "answer": "We offer design support to help create professional, on-brand labels and packaging. Whether you have a design idea or need complete assistance, our team can guide you through the process.\nPlease contact us at design@privatelabelcandles.com with any design questions.",
+    "tags": []
+  },
+  {
+    "id": "FAQ-023",
+    "category": "Customization & Design",
+    "question": "Can I customize the scents, colors, and packaging of the products?",
+    "answer": "Yes, our private label service offers extensive customization options. You can select fragrances, container colors and styles, label designs and finishes, and even the packaging to ensure your product reflects your brand perfectly.",
+    "tags": []
+  },
+  {
+    "id": "FAQ-024",
+    "category": "Customization & Design",
+    "question": "Can I provide my own jars or packaging?",
+    "answer": "Yes, you can provide your own jars or packaging for your project. In order to receive a quote, we would need a sample of the vessel or packaging in hand to determine several factors that could affect pricing for your project. Please contact us for more information.",
+    "tags": []
+  },
+  {
+    "id": "FAQ-025",
+    "category": "Customization & Design",
+    "question": "Can I use my own logo and branding?",
+    "answer": "Yes, your logo and branding will be incorporated into the product design, labels, and packaging. This ensures your candles or other scented products represent your brand identity seamlessly.",
+    "tags": []
+  },
+  {
+    "id": "FAQ-026",
+    "category": "Customization & Design",
+    "question": "Can I create a custom scent?",
+    "answer": "Yes, we can help you develop a unique scent that aligns with your brand. Our fragrance specialists work with you to create blends that suit your vision and appeal to your target audience.",
+    "tags": []
+  },
+  {
+    "id": "FAQ-027",
+    "category": "Return Policy",
+    "question": "Design and approval process",
+    "answer": "All custom label orders go through a detailed design process. Clients are required to review and approve all mock-ups before production begins.\nAn invoice, including a description of the product and design details, will be provided for final review and approval before proceeding.",
+    "tags": []
+  },
+  {
+    "id": "FAQ-028",
+    "category": "Return Policy",
+    "question": "Customer responsibility",
+    "answer": "It is the customer’s responsibility to ensure the accuracy of the approved artwork, invoice details, and product specifications before making payment.\nBy approving the design and paying the invoice, the customer acknowledges that all information is correct and final.",
+    "tags": []
+  },
+  {
+    "id": "FAQ-029",
+    "category": "Return Policy",
+    "question": "No returns or refunds",
+    "answer": "Due to the custom nature of these products, all sales are final . We do not offer returns, refunds, or exchanges for any custom label orders.\nIf an error is found after production that matches the approved design and invoice, PLC is not responsible for the mistake.",
+    "tags": []
+  },
+  {
+    "id": "FAQ-030",
+    "category": "Return Policy",
+    "question": "Exceptions",
+    "answer": "In the unlikely event that there is a production error on our part that does not align with the approved mock-up and invoice, please contact us within 7 business days of receiving your order. We will review the issue and provide an appropriate resolution.",
+    "tags": []
   }
 ]

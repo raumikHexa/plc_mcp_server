@@ -1,0 +1,1785 @@
+[
+  {
+    "number": 1,
+    "name": "Allure",
+    "notes": [
+      "Balsam Fir",
+      "Pine",
+      "Thyme"
+    ],
+    "notes_text": "Balsam Fir, Pine & Thyme",
+    "categories": [
+      "Holiday",
+      "Unisex"
+    ],
+    "top_seller": true,
+    "is_new": false,
+    "inspired_by": null,
+    "remarks": "Holiday",
+    "url": "https://privatelabelcandles.com/products/1-allure-balsam-fir-pine-thyme"
+  },
+  {
+    "number": 2,
+    "name": "Beautiful",
+    "notes": [
+      "Moroccan Amber"
+    ],
+    "notes_text": "Moroccan Amber",
+    "categories": [
+      "Feminine",
+      "Floral",
+      "Musk"
+    ],
+    "top_seller": false,
+    "is_new": false,
+    "inspired_by": null,
+    "remarks": null,
+    "url": "https://privatelabelcandles.com/products/2-beautiful-moroccan-amber"
+  },
+  {
+    "number": 3,
+    "name": "Baby Powder",
+    "notes": [],
+    "notes_text": "",
+    "categories": [
+      "Feminine",
+      "Fresh",
+      "Unisex"
+    ],
+    "top_seller": false,
+    "is_new": false,
+    "inspired_by": null,
+    "remarks": null,
+    "url": "https://privatelabelcandles.com/products/3-baby-powder"
+  },
+  {
+    "number": 4,
+    "name": "Belize",
+    "notes": [
+      "Exotic Tropical Fruit",
+      "Juicy Citrus"
+    ],
+    "notes_text": "Exotic Tropical Fruit & Juicy Citrus",
+    "categories": [
+      "Citrus",
+      "Floral",
+      "Fruity",
+      "Unisex"
+    ],
+    "top_seller": false,
+    "is_new": false,
+    "inspired_by": "BBW Midnight Blue Citrus",
+    "remarks": null,
+    "url": "https://privatelabelcandles.com/products/4-belize-exotic-tropical-fruit-juicy-citrus"
+  },
+  {
+    "number": 5,
+    "name": "Blueberry Cobbler",
+    "notes": [],
+    "notes_text": "",
+    "categories": [
+      "Fruity",
+      "Gourmand",
+      "Sweet",
+      "Unisex"
+    ],
+    "top_seller": false,
+    "is_new": false,
+    "inspired_by": null,
+    "remarks": null,
+    "url": "https://privatelabelcandles.com/products/5-blueberry-cobbler"
+  },
+  {
+    "number": 6,
+    "name": "Comfort",
+    "notes": [
+      "Honeyed Myrrh",
+      "Cedar",
+      "Patchouli"
+    ],
+    "notes_text": "Honeyed Myrrh, Cedar & Patchouli",
+    "categories": [
+      "Earthy",
+      "Masculine",
+      "Musk",
+      "Unisex",
+      "Woodsy"
+    ],
+    "top_seller": false,
+    "is_new": false,
+    "inspired_by": null,
+    "remarks": null,
+    "url": "https://privatelabelcandles.com/products/6-comfort-honeyed-myrrh-cedar-patchouli"
+  },
+  {
+    "number": 7,
+    "name": "Cozy",
+    "notes": [
+      "Mélange of Spices",
+      "Evergreen"
+    ],
+    "notes_text": "Mélange of Spices & Evergreen",
+    "categories": [
+      "Citrus",
+      "Fruity",
+      "Holiday",
+      "Sweet",
+      "Unisex"
+    ],
+    "top_seller": true,
+    "is_new": false,
+    "inspired_by": null,
+    "remarks": "SC Bohemian Hotel Celebration, The Grand Bohemian,  Casa Monica",
+    "url": "https://privatelabelcandles.com/products/7-cozy-noel-melange-of-spices-evergreen"
+  },
+  {
+    "number": 8,
+    "name": "Desire",
+    "notes": [
+      "Peach Mango"
+    ],
+    "notes_text": "Peach Mango",
+    "categories": [
+      "Citrus",
+      "Feminine",
+      "Fruity",
+      "Unisex"
+    ],
+    "top_seller": false,
+    "is_new": false,
+    "inspired_by": null,
+    "remarks": "SC The Mansion on Forsyth Park",
+    "url": "https://privatelabelcandles.com/products/8-desire-peach-mango"
+  },
+  {
+    "number": 9,
+    "name": "Devotion",
+    "notes": [
+      "Pomegranate",
+      "Ginger"
+    ],
+    "notes_text": "Pomegranate & Ginger",
+    "categories": [
+      "Citrus",
+      "Fresh",
+      "Fruity",
+      "Unisex"
+    ],
+    "top_seller": false,
+    "is_new": false,
+    "inspired_by": null,
+    "remarks": null,
+    "url": "https://privatelabelcandles.com/products/9-devotion-pomegranate-ginger"
+  },
+  {
+    "number": 10,
+    "name": "Santal",
+    "notes": [
+      "Cedarwood",
+      "Leather",
+      "Sandalwood"
+    ],
+    "notes_text": "Cedarwood, Leather & Sandalwood",
+    "categories": [
+      "Masculine",
+      "Musk",
+      "Unisex",
+      "Woodsy"
+    ],
+    "top_seller": true,
+    "is_new": false,
+    "inspired_by": null,
+    "remarks": null,
+    "url": "https://privatelabelcandles.com/products/10-santal-cedarwood-leather-sandalwood"
+  },
+  {
+    "number": 11,
+    "name": "Mahogany Teak",
+    "notes": [],
+    "notes_text": "",
+    "categories": [
+      "Floral",
+      "Masculine",
+      "Musk",
+      "Woodsy"
+    ],
+    "top_seller": false,
+    "is_new": false,
+    "inspired_by": null,
+    "remarks": null,
+    "url": "https://privatelabelcandles.com/products/11-mahogany-teak"
+  },
+  {
+    "number": 12,
+    "name": "Daydream",
+    "notes": [
+      "Sparkling Bergamot",
+      "Oakmoss",
+      "Lavender"
+    ],
+    "notes_text": "Sparkling Bergamot, Oakmoss & Lavender",
+    "categories": [
+      "Feminine",
+      "Floral",
+      "Fresh"
+    ],
+    "top_seller": false,
+    "is_new": true,
+    "inspired_by": null,
+    "remarks": null,
+    "url": "https://privatelabelcandles.com/products/12-daydream-sparkling-bergamot-oakmoss-lavender-new"
+  },
+  {
+    "number": 13,
+    "name": "Temptations",
+    "notes": [
+      "Vanilla Bean"
+    ],
+    "notes_text": "Vanilla Bean",
+    "categories": [
+      "Gourmand",
+      "Sweet",
+      "Unisex"
+    ],
+    "top_seller": false,
+    "is_new": false,
+    "inspired_by": null,
+    "remarks": null,
+    "url": "https://privatelabelcandles.com/products/13-temptations-vanilla-bean"
+  },
+  {
+    "number": 14,
+    "name": "Secret Affair",
+    "notes": [
+      "Soft Amber",
+      "Sandalwood [Our take on Baccarat Rouge 540)]"
+    ],
+    "notes_text": "Soft Amber & Sandalwood [Our take on Baccarat Rouge 540)]",
+    "categories": [
+      "Feminine",
+      "Floral",
+      "Sweet",
+      "Woodsy"
+    ],
+    "top_seller": true,
+    "is_new": false,
+    "inspired_by": null,
+    "remarks": null,
+    "url": "https://privatelabelcandles.com/products/14-secret-affair-soft-amber-sandalwood-our-take-on-baccarat-rouge-540"
+  },
+  {
+    "number": 15,
+    "name": "Blossom",
+    "notes": [
+      "Spring Blossoms",
+      "White Musk",
+      "Pears"
+    ],
+    "notes_text": "Spring Blossoms, White Musk & Pears",
+    "categories": [
+      "Feminine",
+      "Floral",
+      "Fresh",
+      "Unisex"
+    ],
+    "top_seller": false,
+    "is_new": false,
+    "inspired_by": null,
+    "remarks": null,
+    "url": "https://privatelabelcandles.com/products/15-blossom-spring-blossoms-white-musk-pears"
+  },
+  {
+    "number": 16,
+    "name": "Balance",
+    "notes": [
+      "French Lavender",
+      "Thyme",
+      "Rosewood"
+    ],
+    "notes_text": "French Lavender, Thyme & Rosewood",
+    "categories": [
+      "Feminine",
+      "Floral",
+      "Fresh"
+    ],
+    "top_seller": false,
+    "is_new": true,
+    "inspired_by": null,
+    "remarks": null,
+    "url": "https://privatelabelcandles.com/products/16-balance-french-lavender-thyme-rosewood-new"
+  },
+  {
+    "number": 17,
+    "name": "Brilliance",
+    "notes": [
+      "Lotus Blossoms",
+      "Pomegranate",
+      "Musk"
+    ],
+    "notes_text": "Lotus Blossoms, Pomegranate & Musk",
+    "categories": [
+      "Feminine",
+      "Floral"
+    ],
+    "top_seller": false,
+    "is_new": true,
+    "inspired_by": null,
+    "remarks": null,
+    "url": "https://privatelabelcandles.com/products/17-brilliance-lotus-blossoms-pomegranate-musk-new-copy"
+  },
+  {
+    "number": 18,
+    "name": "Gorgeous",
+    "notes": [
+      "Tangerine",
+      "Litsea",
+      "Clove"
+    ],
+    "notes_text": "Tangerine, Litsea & Clove",
+    "categories": [
+      "Citrus",
+      "Feminine",
+      "Floral",
+      "Fresh",
+      "Unisex"
+    ],
+    "top_seller": false,
+    "is_new": false,
+    "inspired_by": null,
+    "remarks": null,
+    "url": "https://privatelabelcandles.com/products/18-gorgeous-tangerine-litsea-clove"
+  },
+  {
+    "number": 19,
+    "name": "Tropical Paradise",
+    "notes": [
+      "Dragon Fruit",
+      "Hibiscus",
+      "Mango"
+    ],
+    "notes_text": "Dragon Fruit, Hibiscus & Mango",
+    "categories": [
+      "Citrus",
+      "Fruity",
+      "Sweet",
+      "Unisex"
+    ],
+    "top_seller": false,
+    "is_new": true,
+    "inspired_by": null,
+    "remarks": null,
+    "url": "https://privatelabelcandles.com/products/19-tropical-paradise-dragon-fruit-hibiscus-mango-new"
+  },
+  {
+    "number": 20,
+    "name": "Havana",
+    "notes": [
+      "Cuban Vanilla"
+    ],
+    "notes_text": "Cuban Vanilla",
+    "categories": [
+      "Gourmand",
+      "Sweet",
+      "Unisex"
+    ],
+    "top_seller": false,
+    "is_new": false,
+    "inspired_by": null,
+    "remarks": null,
+    "url": "https://privatelabelcandles.com/products/20-havana-cuban-vanilla"
+  },
+  {
+    "number": 21,
+    "name": "Indulgence",
+    "notes": [
+      "Lemon Biscotti"
+    ],
+    "notes_text": "Lemon Biscotti",
+    "categories": [
+      "Gourmand",
+      "Sweet",
+      "Unisex"
+    ],
+    "top_seller": false,
+    "is_new": false,
+    "inspired_by": null,
+    "remarks": null,
+    "url": "https://privatelabelcandles.com/products/21-indulgence-lemon-biscotti"
+  },
+  {
+    "number": 22,
+    "name": "Pacific",
+    "notes": [
+      "Ocean Breeze"
+    ],
+    "notes_text": "Ocean Breeze",
+    "categories": [
+      "Aquatic",
+      "Citrus",
+      "Fresh",
+      "Unisex"
+    ],
+    "top_seller": true,
+    "is_new": false,
+    "inspired_by": null,
+    "remarks": null,
+    "url": "https://privatelabelcandles.com/products/22-pacific-ocean-breeze"
+  },
+  {
+    "number": 23,
+    "name": "007",
+    "notes": [
+      "Patchouli",
+      "Bergamot",
+      "Cedar"
+    ],
+    "notes_text": "Patchouli, Bergamot & Cedar",
+    "categories": [
+      "Aquatic",
+      "Citrus",
+      "Fresh",
+      "Masculine",
+      "Unisex"
+    ],
+    "top_seller": false,
+    "is_new": true,
+    "inspired_by": null,
+    "remarks": null,
+    "url": "https://privatelabelcandles.com/products/23-007-patchouli-bergamot-cedar-new"
+  },
+  {
+    "number": 24,
+    "name": "Intrigue",
+    "notes": [
+      "Musky Amber",
+      "Rose *PREMIUM*"
+    ],
+    "notes_text": "Musky Amber & Rose *PREMIUM*",
+    "categories": [
+      "Feminine",
+      "Floral",
+      "Musk",
+      "Woodsy"
+    ],
+    "top_seller": true,
+    "is_new": false,
+    "inspired_by": null,
+    "remarks": null,
+    "url": "https://privatelabelcandles.com/products/24-intrigue-musky-amber-rose-premium-add-1-per-unit"
+  },
+  {
+    "number": 25,
+    "name": "Valley",
+    "notes": [
+      "Carnation",
+      "Lily of The Valley",
+      "Citrus"
+    ],
+    "notes_text": "Carnation, Lily of The Valley & Citrus",
+    "categories": [
+      "Citrus",
+      "Feminine",
+      "Floral",
+      "Fresh",
+      "Unisex"
+    ],
+    "top_seller": false,
+    "is_new": true,
+    "inspired_by": null,
+    "remarks": null,
+    "url": "https://privatelabelcandles.com/products/25-valley-carnation-lily-of-the-valley-citrus-new"
+  },
+  {
+    "number": 26,
+    "name": "Adore",
+    "notes": [
+      "Bergamot",
+      "Gardenia",
+      "Jasmine"
+    ],
+    "notes_text": "Bergamot, Gardenia & Jasmine",
+    "categories": [
+      "Feminine",
+      "Floral"
+    ],
+    "top_seller": false,
+    "is_new": true,
+    "inspired_by": null,
+    "remarks": null,
+    "url": "https://privatelabelcandles.com/products/26-adore-bergamot-gardenia-jasmine-new"
+  },
+  {
+    "number": 27,
+    "name": "Love",
+    "notes": [
+      "Spiced Vanilla"
+    ],
+    "notes_text": "Spiced Vanilla",
+    "categories": [
+      "Gourmand",
+      "Holiday",
+      "Sweet",
+      "Unisex"
+    ],
+    "top_seller": false,
+    "is_new": false,
+    "inspired_by": null,
+    "remarks": null,
+    "url": "https://privatelabelcandles.com/products/27-love-spiced-vanilla"
+  },
+  {
+    "number": 28,
+    "name": "Bloom",
+    "notes": [
+      "Black Currant",
+      "French Roses",
+      "Foliage"
+    ],
+    "notes_text": "Black Currant, French Roses & Foliage",
+    "categories": [
+      "Feminine",
+      "Floral",
+      "Musk"
+    ],
+    "top_seller": false,
+    "is_new": true,
+    "inspired_by": null,
+    "remarks": null,
+    "url": "https://privatelabelcandles.com/products/28-bloom-blackcurrant-french-roses-foliage-new"
+  },
+  {
+    "number": 29,
+    "name": "Brawn",
+    "notes": [
+      "Cedar",
+      "Leather",
+      "Amber"
+    ],
+    "notes_text": "Cedar, Leather & Amber",
+    "categories": [
+      "Masculine",
+      "Musk",
+      "Unisex",
+      "Woodsy"
+    ],
+    "top_seller": false,
+    "is_new": true,
+    "inspired_by": null,
+    "remarks": null,
+    "url": "https://privatelabelcandles.com/products/29-brawn-cedar-leather-amber-new"
+  },
+  {
+    "number": 30,
+    "name": "Lush",
+    "notes": [
+      "Mango Guava"
+    ],
+    "notes_text": "Mango Guava",
+    "categories": [
+      "Fruity",
+      "Sweet",
+      "Unisex"
+    ],
+    "top_seller": true,
+    "is_new": false,
+    "inspired_by": null,
+    "remarks": "SC Ritz Carlton South Beach; SC Waldorf Astoria Chicago",
+    "url": "https://privatelabelcandles.com/products/30-lush-mango-guava"
+  },
+  {
+    "number": 31,
+    "name": "Noble",
+    "notes": [
+      "Tobacco Shop"
+    ],
+    "notes_text": "Tobacco Shop",
+    "categories": [
+      "Earthy",
+      "Masculine",
+      "Musk",
+      "Unisex",
+      "Woodsy"
+    ],
+    "top_seller": false,
+    "is_new": true,
+    "inspired_by": null,
+    "remarks": null,
+    "url": "https://privatelabelcandles.com/products/31-noble-tobacco-shop-new"
+  },
+  {
+    "number": 32,
+    "name": "Eucalyptus Mint",
+    "notes": [
+      "Sweet Spearmint",
+      "Fresh Eucalyptus [Inspired by BBW Eucalyptus Spearmint]"
+    ],
+    "notes_text": "Sweet Spearmint & Fresh Eucalyptus [Inspired by BBW Eucalyptus Spearmint]",
+    "categories": [
+      "Fresh",
+      "Unisex"
+    ],
+    "top_seller": false,
+    "is_new": false,
+    "inspired_by": null,
+    "remarks": null,
+    "url": "https://privatelabelcandles.com/products/32-eucalyptus-mint-sweet-spearmint-fresh-eucalyptus"
+  },
+  {
+    "number": 33,
+    "name": "Crisp Linen",
+    "notes": [
+      "Clean Cotton",
+      "Lavender",
+      "White Musk"
+    ],
+    "notes_text": "Clean Cotton, Lavender & White Musk",
+    "categories": [
+      "Feminine",
+      "Fresh",
+      "Unisex"
+    ],
+    "top_seller": false,
+    "is_new": false,
+    "inspired_by": null,
+    "remarks": null,
+    "url": "https://privatelabelcandles.com/products/33-crisp-linen-clean-cotton-lavender-white-musk"
+  },
+  {
+    "number": 34,
+    "name": "Aspen",
+    "notes": [
+      "Balsam Fir",
+      "Clove",
+      "Cinnamon"
+    ],
+    "notes_text": "Balsam Fir, Clove & Cinnamon",
+    "categories": [
+      "Earthy",
+      "Holiday",
+      "Unisex",
+      "Woodsy"
+    ],
+    "top_seller": false,
+    "is_new": true,
+    "inspired_by": null,
+    "remarks": null,
+    "url": "https://privatelabelcandles.com/products/34-aspen-balsam-fir-clove-cinnamon-new"
+  },
+  {
+    "number": 35,
+    "name": "Patience",
+    "notes": [
+      "Tobacco",
+      "Vanilla"
+    ],
+    "notes_text": "Tobacco & Vanilla",
+    "categories": [
+      "Sweet",
+      "Unisex",
+      "Woodsy"
+    ],
+    "top_seller": true,
+    "is_new": false,
+    "inspired_by": null,
+    "remarks": "SC Grand Bohemian Charleston, Grand Bohemian Hotel Asheville",
+    "url": "https://privatelabelcandles.com/products/35-patience-tobacco-vanilla"
+  },
+  {
+    "number": 36,
+    "name": "Peppy",
+    "notes": [
+      "Sweet Pea",
+      "Jasmine",
+      "Apple"
+    ],
+    "notes_text": "Sweet Pea, Jasmine & Apple",
+    "categories": [
+      "Citrus",
+      "Feminine",
+      "Floral",
+      "Fruity",
+      "Sweet",
+      "Unisex"
+    ],
+    "top_seller": true,
+    "is_new": false,
+    "inspired_by": null,
+    "remarks": "SC The Ritz Carlton Spa, The Ritz Carlton Reynolds",
+    "url": "https://privatelabelcandles.com/products/36-peppy-sweet-pea-jasmine-apple"
+  },
+  {
+    "number": 37,
+    "name": "Luscious",
+    "notes": [
+      "Spiced Pears"
+    ],
+    "notes_text": "Spiced Pears",
+    "categories": [
+      "Fruity",
+      "Gourmand",
+      "Sweet",
+      "Unisex"
+    ],
+    "top_seller": false,
+    "is_new": false,
+    "inspired_by": null,
+    "remarks": null,
+    "url": "https://privatelabelcandles.com/products/37-luscious-spiced-pears"
+  },
+  {
+    "number": 38,
+    "name": "Pumpkin Chai",
+    "notes": [],
+    "notes_text": "",
+    "categories": [
+      "Gourmand",
+      "Holiday",
+      "Sweet",
+      "Unisex"
+    ],
+    "top_seller": false,
+    "is_new": false,
+    "inspired_by": null,
+    "remarks": null,
+    "url": "https://privatelabelcandles.com/products/38-pumpkin-chai"
+  },
+  {
+    "number": 39,
+    "name": "Bourbon",
+    "notes": [
+      "Apple Maple Bourbon"
+    ],
+    "notes_text": "Apple Maple Bourbon",
+    "categories": [
+      "Masculine",
+      "Sweet",
+      "Unisex",
+      "Woodsy"
+    ],
+    "top_seller": false,
+    "is_new": true,
+    "inspired_by": null,
+    "remarks": null,
+    "url": "https://privatelabelcandles.com/products/39-bourbon-apple-maple-bourbon-new"
+  },
+  {
+    "number": 40,
+    "name": "Relaxation",
+    "notes": [
+      "Lavender",
+      "Bergamot"
+    ],
+    "notes_text": "Lavender, Bergamot",
+    "categories": [
+      "Citrus",
+      "Feminine",
+      "Floral",
+      "Fresh",
+      "Unisex"
+    ],
+    "top_seller": true,
+    "is_new": false,
+    "inspired_by": null,
+    "remarks": "SC The Ritz Carlton Spa, Bohemian Hotel Mountain Brook",
+    "url": "https://privatelabelcandles.com/products/40-relaxation-lavender-bergamot"
+  },
+  {
+    "number": 41,
+    "name": "Romance",
+    "notes": [
+      "Magnolia Gardenia"
+    ],
+    "notes_text": "Magnolia Gardenia",
+    "categories": [
+      "Feminine",
+      "Floral",
+      "Unisex"
+    ],
+    "top_seller": false,
+    "is_new": false,
+    "inspired_by": null,
+    "remarks": null,
+    "url": "https://privatelabelcandles.com/products/41-romance-magnolia-gardenia"
+  },
+  {
+    "number": 42,
+    "name": "Palo Santo",
+    "notes": [
+      "Woodsy",
+      "Citrus",
+      "Pine"
+    ],
+    "notes_text": "Woodsy, Citrus & Pine",
+    "categories": [
+      "Earthy",
+      "Masculine",
+      "Musk",
+      "Unisex",
+      "Woodsy"
+    ],
+    "top_seller": false,
+    "is_new": false,
+    "inspired_by": null,
+    "remarks": null,
+    "url": "https://privatelabelcandles.com/products/42-palo-santo-woodsy-citrus-pine"
+  },
+  {
+    "number": 44,
+    "name": "Savory",
+    "notes": [
+      "Sugar Coated Lemon"
+    ],
+    "notes_text": "Sugar Coated Lemon",
+    "categories": [
+      "Citrus",
+      "Fruity",
+      "Gourmand",
+      "Sweet",
+      "Unisex"
+    ],
+    "top_seller": false,
+    "is_new": false,
+    "inspired_by": null,
+    "remarks": null,
+    "url": "https://privatelabelcandles.com/products/44-savory-sugar-coated-lemon"
+  },
+  {
+    "number": 45,
+    "name": "Dahlia",
+    "notes": [
+      "Blood Orange",
+      "Grapefruit"
+    ],
+    "notes_text": "Blood Orange & Grapefruit",
+    "categories": [
+      "Citrus",
+      "Fruity",
+      "Sweet",
+      "Unisex"
+    ],
+    "top_seller": true,
+    "is_new": false,
+    "inspired_by": null,
+    "remarks": null,
+    "url": "https://privatelabelcandles.com/products/45-dahlia-blood-orange-grapefruit"
+  },
+  {
+    "number": 46,
+    "name": "My Way",
+    "notes": [
+      "Leather",
+      "Sandalwood",
+      "Amber"
+    ],
+    "notes_text": "Leather, Sandalwood & Amber",
+    "categories": [
+      "Masculine",
+      "Musk",
+      "Woodsy"
+    ],
+    "top_seller": false,
+    "is_new": true,
+    "inspired_by": null,
+    "remarks": null,
+    "url": "https://privatelabelcandles.com/products/46-my-way-leather-sandalwood-amber-new"
+  },
+  {
+    "number": 47,
+    "name": "Sassy",
+    "notes": [
+      "White Amber",
+      "Lily"
+    ],
+    "notes_text": "White Amber & Lily",
+    "categories": [
+      "Feminine",
+      "Floral",
+      "Fresh"
+    ],
+    "top_seller": true,
+    "is_new": false,
+    "inspired_by": null,
+    "remarks": null,
+    "url": "https://privatelabelcandles.com/products/47-sassy-white-amber-lily"
+  },
+  {
+    "number": 48,
+    "name": "Sublime",
+    "notes": [
+      "Pomegranate Sage [Our take on NOIR 29]"
+    ],
+    "notes_text": "Pomegranate Sage [Our take on NOIR 29]",
+    "categories": [
+      "Earthy",
+      "Musk",
+      "Unisex",
+      "Woodsy"
+    ],
+    "top_seller": false,
+    "is_new": false,
+    "inspired_by": null,
+    "remarks": null,
+    "url": "https://privatelabelcandles.com/products/48-sublime-pomegranate-sage-our-take-on-noir-29"
+  },
+  {
+    "number": 49,
+    "name": "Tranquility",
+    "notes": [
+      "Lemongrass",
+      "Wild Basil"
+    ],
+    "notes_text": "Lemongrass & Wild Basil",
+    "categories": [
+      "Citrus",
+      "Fresh",
+      "Unisex"
+    ],
+    "top_seller": true,
+    "is_new": false,
+    "inspired_by": null,
+    "remarks": "SC Amanyara Resort, The Ritz Carlton Naples",
+    "url": "https://privatelabelcandles.com/products/49-tranquility-lemongrass-wild-basil"
+  },
+  {
+    "number": 50,
+    "name": "Utopia",
+    "notes": [
+      "White Tea",
+      "Thyme"
+    ],
+    "notes_text": "White Tea & Thyme",
+    "categories": [
+      "Floral",
+      "Fresh",
+      "Unisex"
+    ],
+    "top_seller": true,
+    "is_new": false,
+    "inspired_by": null,
+    "remarks": null,
+    "url": "https://privatelabelcandles.com/products/50-utopia-white-tea-thyme"
+  },
+  {
+    "number": 51,
+    "name": "Earth",
+    "notes": [
+      "Pure Patchouli"
+    ],
+    "notes_text": "Pure Patchouli",
+    "categories": [
+      "Earthy",
+      "Musk",
+      "Unisex",
+      "Woodsy"
+    ],
+    "top_seller": false,
+    "is_new": true,
+    "inspired_by": null,
+    "remarks": null,
+    "url": "https://privatelabelcandles.com/products/51-earth-pure-patchouli-new"
+  },
+  {
+    "number": 52,
+    "name": "Smokey Bliss",
+    "notes": [
+      "Vanilla Sandalwood"
+    ],
+    "notes_text": "Vanilla Sandalwood",
+    "categories": [
+      "Musk",
+      "Sweet",
+      "Unisex",
+      "Woodsy"
+    ],
+    "top_seller": false,
+    "is_new": true,
+    "inspired_by": null,
+    "remarks": null,
+    "url": "https://privatelabelcandles.com/products/52-smokey-bliss-vanilla-sandalwood-new"
+  },
+  {
+    "number": 53,
+    "name": "Java",
+    "notes": [
+      "Café Latte"
+    ],
+    "notes_text": "Café Latte",
+    "categories": [
+      "Gourmand",
+      "Sweet",
+      "Unisex"
+    ],
+    "top_seller": false,
+    "is_new": false,
+    "inspired_by": null,
+    "remarks": null,
+    "url": "https://privatelabelcandles.com/products/53-java-cafe-latte"
+  },
+  {
+    "number": 54,
+    "name": "Bliss",
+    "notes": [
+      "Sweet Mango"
+    ],
+    "notes_text": "Sweet Mango",
+    "categories": [
+      "Citrus",
+      "Fruity",
+      "Sweet",
+      "Unisex"
+    ],
+    "top_seller": true,
+    "is_new": false,
+    "inspired_by": null,
+    "remarks": "SC Ritz Key Biscayne, Spa at Conrad Miami",
+    "url": "https://privatelabelcandles.com/products/54-bliss-sweet-mango"
+  },
+  {
+    "number": 55,
+    "name": "Winter",
+    "notes": [
+      "Balsam Fir"
+    ],
+    "notes_text": "Balsam Fir",
+    "categories": [
+      "Earthy",
+      "Fresh",
+      "Unisex",
+      "Woodsy"
+    ],
+    "top_seller": false,
+    "is_new": true,
+    "inspired_by": null,
+    "remarks": null,
+    "url": "https://privatelabelcandles.com/products/55-winter-balsam-fir-new"
+  },
+  {
+    "number": 56,
+    "name": "Amber Cashmere",
+    "notes": [
+      "Tobacco",
+      "Amber",
+      "Bergamot"
+    ],
+    "notes_text": "Tobacco, Amber & Bergamot",
+    "categories": [
+      "Citrus",
+      "Musk",
+      "Unisex",
+      "Woodsy"
+    ],
+    "top_seller": false,
+    "is_new": false,
+    "inspired_by": null,
+    "remarks": null,
+    "url": "https://privatelabelcandles.com/products/54-amber-cashmere-tobacco-amber-bergamot"
+  },
+  {
+    "number": 57,
+    "name": "Whiskey",
+    "notes": [
+      "Whiskey Caramel"
+    ],
+    "notes_text": "Whiskey Caramel",
+    "categories": [],
+    "top_seller": false,
+    "is_new": true,
+    "inspired_by": null,
+    "remarks": null,
+    "url": "https://privatelabelcandles.com/products/57-whiskey-whiskey-caramel-new"
+  },
+  {
+    "number": 58,
+    "name": "Flawless",
+    "notes": [
+      "Fresh Pine",
+      "Bergamot",
+      "Yuzu"
+    ],
+    "notes_text": "Fresh Pine, Bergamot & Yuzu",
+    "categories": [
+      "Citrus",
+      "Fresh"
+    ],
+    "top_seller": false,
+    "is_new": true,
+    "inspired_by": null,
+    "remarks": null,
+    "url": "https://privatelabelcandles.com/products/58-flawless-fresh-pine-bergamot-yuzu"
+  },
+  {
+    "number": 59,
+    "name": "Dusk",
+    "notes": [
+      "Leather",
+      "Oud"
+    ],
+    "notes_text": "Leather & Oud",
+    "categories": [
+      "Holiday",
+      "Masculine",
+      "Musk",
+      "Unisex",
+      "Woodsy"
+    ],
+    "top_seller": false,
+    "is_new": false,
+    "inspired_by": null,
+    "remarks": null,
+    "url": "https://privatelabelcandles.com/products/59-dusk-leather-oud"
+  },
+  {
+    "number": 60,
+    "name": "Zen",
+    "notes": [
+      "Citrus",
+      "White Musk",
+      "Bamboo"
+    ],
+    "notes_text": "Citrus, White Musk & Bamboo",
+    "categories": [
+      "Citrus",
+      "Fresh",
+      "Unisex"
+    ],
+    "top_seller": false,
+    "is_new": true,
+    "inspired_by": null,
+    "remarks": null,
+    "url": "https://privatelabelcandles.com/products/60-zen-citrus-white-musk-bamboo"
+  },
+  {
+    "number": 61,
+    "name": "Unforgettable",
+    "notes": [
+      "Fresh Linen"
+    ],
+    "notes_text": "Fresh Linen",
+    "categories": [
+      "Fresh",
+      "Unisex"
+    ],
+    "top_seller": false,
+    "is_new": false,
+    "inspired_by": null,
+    "remarks": null,
+    "url": "https://privatelabelcandles.com/products/61-unforgettable-fresh-linen"
+  },
+  {
+    "number": 62,
+    "name": "Chance",
+    "notes": [
+      "Green Tea Lemon Zest"
+    ],
+    "notes_text": "Green Tea Lemon Zest",
+    "categories": [
+      "Citrus",
+      "Fresh",
+      "Unisex"
+    ],
+    "top_seller": true,
+    "is_new": false,
+    "inspired_by": null,
+    "remarks": null,
+    "url": "https://privatelabelcandles.com/products/62-chance-green-tea-lemon-zest"
+  },
+  {
+    "number": 63,
+    "name": "Seduction",
+    "notes": [
+      "Sandalwood",
+      "Jasmine"
+    ],
+    "notes_text": "Sandalwood & Jasmine",
+    "categories": [
+      "Floral",
+      "Musk",
+      "Unisex",
+      "Woodsy"
+    ],
+    "top_seller": true,
+    "is_new": false,
+    "inspired_by": null,
+    "remarks": null,
+    "url": "https://privatelabelcandles.com/products/63-seduction-sandalwood-jasmine"
+  },
+  {
+    "number": 64,
+    "name": "Endless",
+    "notes": [
+      "Sea Breeze",
+      "Salt Water",
+      "White Jasime"
+    ],
+    "notes_text": "Sea Breeze, Salt Water & White Jasime",
+    "categories": [
+      "Aquatic",
+      "Fresh",
+      "Unisex"
+    ],
+    "top_seller": false,
+    "is_new": true,
+    "inspired_by": null,
+    "remarks": null,
+    "url": "https://privatelabelcandles.com/products/64-endless-sea-breeze-salt-water-white-jasmine"
+  },
+  {
+    "number": 65,
+    "name": "Escape",
+    "notes": [
+      "Mediterranean Breeze"
+    ],
+    "notes_text": "Mediterranean Breeze",
+    "categories": [
+      "Aquatic",
+      "Citrus",
+      "Fresh",
+      "Unisex"
+    ],
+    "top_seller": false,
+    "is_new": false,
+    "inspired_by": null,
+    "remarks": null,
+    "url": "https://privatelabelcandles.com/products/65-escape-mediterranean-breeze"
+  },
+  {
+    "number": 66,
+    "name": "Sugar Pecans",
+    "notes": [
+      "Cinnamon Sugared Pecans"
+    ],
+    "notes_text": "Cinnamon Sugared Pecans",
+    "categories": [
+      "Gourmand",
+      "Holiday",
+      "Sweet",
+      "Unisex"
+    ],
+    "top_seller": false,
+    "is_new": false,
+    "inspired_by": null,
+    "remarks": null,
+    "url": "https://privatelabelcandles.com/products/66-sugar-pecans-cinnamon-sugared-pecans"
+  },
+  {
+    "number": 67,
+    "name": "Brown Sugar & Oud",
+    "notes": [],
+    "notes_text": "",
+    "categories": [
+      "Gourmand",
+      "Holiday",
+      "Musk",
+      "Sweet",
+      "Unisex"
+    ],
+    "top_seller": false,
+    "is_new": false,
+    "inspired_by": null,
+    "remarks": null,
+    "url": "https://privatelabelcandles.com/products/67-brown-sugar-oud"
+  },
+  {
+    "number": 68,
+    "name": "Inviting",
+    "notes": [
+      "Jasmine",
+      "Tuberose",
+      "Musk"
+    ],
+    "notes_text": "Jasmine, Tuberose & Musk",
+    "categories": [
+      "Feminine",
+      "Floral",
+      "Musk"
+    ],
+    "top_seller": false,
+    "is_new": true,
+    "inspired_by": null,
+    "remarks": null,
+    "url": "https://privatelabelcandles.com/products/68-inviting-jasmine-tuberose-musk"
+  },
+  {
+    "number": 70,
+    "name": "Pleasures",
+    "notes": [
+      "Musky Vanilla",
+      "Violet"
+    ],
+    "notes_text": "Musky Vanilla & Violet",
+    "categories": [
+      "Feminine",
+      "Floral",
+      "Musk"
+    ],
+    "top_seller": false,
+    "is_new": false,
+    "inspired_by": null,
+    "remarks": null,
+    "url": "https://privatelabelcandles.com/products/70-pleasures-musky-vanilla-violet"
+  },
+  {
+    "number": 71,
+    "name": "Calily",
+    "notes": [
+      "Jasmine",
+      "Lily"
+    ],
+    "notes_text": "Jasmine & Lily",
+    "categories": [
+      "Feminine",
+      "Floral"
+    ],
+    "top_seller": false,
+    "is_new": false,
+    "inspired_by": null,
+    "remarks": null,
+    "url": "https://privatelabelcandles.com/products/71-calily-jasmine-lily"
+  },
+  {
+    "number": 72,
+    "name": "Parisian Dream",
+    "notes": [
+      "Jasmine",
+      "Orange",
+      "Patchouli"
+    ],
+    "notes_text": "Jasmine, Orange & Patchouli",
+    "categories": [
+      "Citrus",
+      "Fresh",
+      "Unisex",
+      "Woodsy"
+    ],
+    "top_seller": false,
+    "is_new": true,
+    "inspired_by": null,
+    "remarks": null,
+    "url": "https://privatelabelcandles.com/products/72-parisian-dream-jasmine-orange-patchouli-new"
+  },
+  {
+    "number": 73,
+    "name": "Crumb Cake",
+    "notes": [],
+    "notes_text": "",
+    "categories": [
+      "Gourmand",
+      "Holiday",
+      "Sweet",
+      "Unisex"
+    ],
+    "top_seller": false,
+    "is_new": false,
+    "inspired_by": null,
+    "remarks": null,
+    "url": "https://privatelabelcandles.com/products/73-crumb-cake"
+  },
+  {
+    "number": 74,
+    "name": "Vanilla Oak",
+    "notes": [],
+    "notes_text": "",
+    "categories": [
+      "Musk",
+      "Sweet",
+      "Unisex"
+    ],
+    "top_seller": false,
+    "is_new": false,
+    "inspired_by": null,
+    "remarks": null,
+    "url": "https://privatelabelcandles.com/products/74-vanilla-oak"
+  },
+  {
+    "number": 75,
+    "name": "Amalfi Coast",
+    "notes": [
+      "Fresh Citrus Ocean Mist"
+    ],
+    "notes_text": "Fresh Citrus Ocean Mist",
+    "categories": [
+      "Aquatic",
+      "Citrus",
+      "Fresh",
+      "Unisex"
+    ],
+    "top_seller": true,
+    "is_new": false,
+    "inspired_by": null,
+    "remarks": null,
+    "url": "https://privatelabelcandles.com/products/75-amalfi-coast-fresh-citrus-ocean-mist"
+  },
+  {
+    "number": 76,
+    "name": "Malibu",
+    "notes": [
+      "Coconut",
+      "Vanilla",
+      "Jasmine"
+    ],
+    "notes_text": "Coconut, Vanilla & Jasmine",
+    "categories": [
+      "Fruity",
+      "Sweet"
+    ],
+    "top_seller": false,
+    "is_new": true,
+    "inspired_by": null,
+    "remarks": null,
+    "url": "https://privatelabelcandles.com/products/76-malibu-coconut-vanilla-jasmine"
+  },
+  {
+    "number": 77,
+    "name": "Black Opium",
+    "notes": [
+      "Bergamot",
+      "Orange Blossom",
+      "Patchouli"
+    ],
+    "notes_text": "Bergamot, Orange Blossom & Patchouli",
+    "categories": [
+      "Feminine",
+      "Floral",
+      "Musk"
+    ],
+    "top_seller": false,
+    "is_new": true,
+    "inspired_by": null,
+    "remarks": null,
+    "url": "https://privatelabelcandles.com/products/77-black-opium-bergamot-orange-blossom-patchouli-new"
+  },
+  {
+    "number": 78,
+    "name": "Apple Cinnamon",
+    "notes": [
+      "Red Apples",
+      "Cinnamon",
+      "Vanilla"
+    ],
+    "notes_text": "Red Apples, Cinnamon & Vanilla",
+    "categories": [
+      "Fruity",
+      "Gourmand",
+      "Holiday",
+      "Sweet",
+      "Unisex"
+    ],
+    "top_seller": false,
+    "is_new": false,
+    "inspired_by": null,
+    "remarks": null,
+    "url": "https://privatelabelcandles.com/products/78-apple-cinnamon"
+  },
+  {
+    "number": 79,
+    "name": "Fresh Cut Roses",
+    "notes": [],
+    "notes_text": "",
+    "categories": [
+      "Feminine",
+      "Floral",
+      "Unisex"
+    ],
+    "top_seller": false,
+    "is_new": false,
+    "inspired_by": null,
+    "remarks": null,
+    "url": "https://privatelabelcandles.com/products/79-fresh-cut-roses"
+  },
+  {
+    "number": 80,
+    "name": "Revive",
+    "notes": [
+      "Green Apple",
+      "Jasmine",
+      "Lavender"
+    ],
+    "notes_text": "Green Apple, Jasmine & Lavender",
+    "categories": [
+      "Floral",
+      "Fresh",
+      "Fruity",
+      "Unisex"
+    ],
+    "top_seller": false,
+    "is_new": true,
+    "inspired_by": null,
+    "remarks": null,
+    "url": "https://privatelabelcandles.com/products/80-revive-green-apple-jasmine-lavender"
+  },
+  {
+    "number": 81,
+    "name": "Sexy Man",
+    "notes": [],
+    "notes_text": "",
+    "categories": [
+      "Citrus",
+      "Fresh",
+      "Masculine"
+    ],
+    "top_seller": false,
+    "is_new": false,
+    "inspired_by": null,
+    "remarks": null,
+    "url": "https://privatelabelcandles.com/products/81-sexy-man"
+  },
+  {
+    "number": 82,
+    "name": "Golden",
+    "notes": [
+      "Amber",
+      "Musk",
+      "Vanilla"
+    ],
+    "notes_text": "Amber, Musk & Vanilla",
+    "categories": [],
+    "top_seller": false,
+    "is_new": true,
+    "inspired_by": null,
+    "remarks": null,
+    "url": "https://privatelabelcandles.com/products/82-golden-amber-musk-vanilla-new"
+  },
+  {
+    "number": 83,
+    "name": "Poolside Cabana",
+    "notes": [
+      "White Floral",
+      "Sea Mist"
+    ],
+    "notes_text": "White Floral, Sea Mist",
+    "categories": [
+      "Aquatic",
+      "Feminine",
+      "Floral",
+      "Fresh",
+      "Unisex"
+    ],
+    "top_seller": false,
+    "is_new": false,
+    "inspired_by": null,
+    "remarks": null,
+    "url": "https://privatelabelcandles.com/products/83-poolside-cabana-white-floral-sea-mist"
+  },
+  {
+    "number": 84,
+    "name": "Black Amber",
+    "notes": [],
+    "notes_text": "",
+    "categories": [
+      "Floral",
+      "Musk",
+      "Unisex"
+    ],
+    "top_seller": false,
+    "is_new": false,
+    "inspired_by": null,
+    "remarks": null,
+    "url": "https://privatelabelcandles.com/products/84-black-amber"
+  },
+  {
+    "number": 85,
+    "name": "Indian Incense",
+    "notes": [],
+    "notes_text": "",
+    "categories": [
+      "Floral",
+      "Holiday",
+      "Musk",
+      "Unisex"
+    ],
+    "top_seller": false,
+    "is_new": false,
+    "inspired_by": null,
+    "remarks": null,
+    "url": "https://privatelabelcandles.com/products/85-indian-incense"
+  },
+  {
+    "number": 86,
+    "name": "White Chocolate Truffle Cake",
+    "notes": [],
+    "notes_text": "",
+    "categories": [
+      "Gourmand",
+      "Unisex"
+    ],
+    "top_seller": false,
+    "is_new": false,
+    "inspired_by": null,
+    "remarks": null,
+    "url": "https://privatelabelcandles.com/products/86-white-chocolate-truffle-cake"
+  },
+  {
+    "number": 87,
+    "name": "Heirloom",
+    "notes": [
+      "Tomato Vines",
+      "Basil",
+      "Spearmint"
+    ],
+    "notes_text": "Tomato Vines, Basil & Spearmint",
+    "categories": [
+      "Earthy",
+      "Fresh",
+      "Unisex"
+    ],
+    "top_seller": false,
+    "is_new": true,
+    "inspired_by": null,
+    "remarks": null,
+    "url": "https://privatelabelcandles.com/products/87-heirloom-tomato-vines-basil-spearmint"
+  },
+  {
+    "number": 88,
+    "name": "Lust",
+    "notes": [
+      "Mesquite Wood",
+      "Neroli",
+      "Oak Moss"
+    ],
+    "notes_text": "Mesquite Wood, Neroli & Oak Moss",
+    "categories": [
+      "Floral",
+      "Masculine",
+      "Musk",
+      "Unisex"
+    ],
+    "top_seller": true,
+    "is_new": false,
+    "inspired_by": null,
+    "remarks": null,
+    "url": "https://privatelabelcandles.com/products/88-lust-mesquite-wood-neroli-oak-moss"
+  },
+  {
+    "number": 90,
+    "name": "Island Coconut",
+    "notes": [
+      "Coconut",
+      "Mango",
+      "Vanilla"
+    ],
+    "notes_text": "Coconut, Mango & Vanilla",
+    "categories": [
+      "Fruity",
+      "Sweet",
+      "Unisex"
+    ],
+    "top_seller": true,
+    "is_new": false,
+    "inspired_by": null,
+    "remarks": null,
+    "url": "https://privatelabelcandles.com/products/90-island-coconut-coconut-mango-vanilla"
+  },
+  {
+    "number": 91,
+    "name": "Mademoiselle",
+    "notes": [
+      "Sandalwood Rose"
+    ],
+    "notes_text": "Sandalwood Rose",
+    "categories": [
+      "Feminine",
+      "Floral"
+    ],
+    "top_seller": false,
+    "is_new": false,
+    "inspired_by": null,
+    "remarks": null,
+    "url": "https://privatelabelcandles.com/products/91-mademoiselle-sandalwood-rose"
+  },
+  {
+    "number": 92,
+    "name": "Timeless",
+    "notes": [
+      "Juniper Flower",
+      "Juicy Pear",
+      "Pine"
+    ],
+    "notes_text": "Juniper Flower, Juicy Pear & Pine",
+    "categories": [
+      "Feminine",
+      "Floral",
+      "Fresh",
+      "Unisex"
+    ],
+    "top_seller": false,
+    "is_new": false,
+    "inspired_by": "BBW Crisp Morning Air",
+    "remarks": null,
+    "url": "https://privatelabelcandles.com/products/92-timeless-juniper-flower-juicy-pear-pine"
+  },
+  {
+    "number": 93,
+    "name": "Skyfall",
+    "notes": [
+      "Neroli",
+      "Jasmine",
+      "Musk"
+    ],
+    "notes_text": "Neroli, Jasmine & Musk",
+    "categories": [
+      "Citrus",
+      "Floral",
+      "Fresh",
+      "Unisex"
+    ],
+    "top_seller": false,
+    "is_new": false,
+    "inspired_by": "Aroma360",
+    "remarks": null,
+    "url": "https://privatelabelcandles.com/products/93-skyfall-neroli-jasmine-musk-inspired-by-aroma360"
+  },
+  {
+    "number": 94,
+    "name": "Secret Affair Intense",
+    "notes": [
+      "Soft Amber",
+      "Sandalwood [Our take on Baccarat Rouge 540] *PREMIUM*"
+    ],
+    "notes_text": "Soft Amber & Sandalwood [Our take on Baccarat Rouge 540] *PREMIUM*",
+    "categories": [
+      "Floral",
+      "Unisex"
+    ],
+    "top_seller": false,
+    "is_new": false,
+    "inspired_by": null,
+    "remarks": null,
+    "url": "https://privatelabelcandles.com/products/94-secret-affair-soft-amber-sandalwood-our-take-on-baccarat-rouge-540-intense"
+  },
+  {
+    "number": 95,
+    "name": "Moss Magic",
+    "notes": [
+      "White Florals",
+      "Earth",
+      "Patchouli"
+    ],
+    "notes_text": "White Florals, Earth & Patchouli",
+    "categories": [],
+    "top_seller": false,
+    "is_new": false,
+    "inspired_by": null,
+    "remarks": null,
+    "url": "https://privatelabelcandles.com/products/95-moss-magic-white-florals-earth-patchouli"
+  },
+  {
+    "number": 96,
+    "name": "Goji Orange",
+    "notes": [
+      "Goji Berry",
+      "Blood Orange",
+      "Mango"
+    ],
+    "notes_text": "Goji Berry, Blood Orange & Mango",
+    "categories": [
+      "Citrus",
+      "Fresh",
+      "Fruity"
+    ],
+    "top_seller": false,
+    "is_new": true,
+    "inspired_by": null,
+    "remarks": null,
+    "url": "https://privatelabelcandles.com/products/96-goji-orange-goji-berry-blood-orange-mango-new"
+  }
+]

@@ -1,31 +1,51 @@
 {
-  "name": "Lumen & Line Studio",
-  "tagline": "Decorative lighting, designed to be lived with.",
-  "description": "Lumen & Line Studio is a fictional design-led decorative lighting company used as sample data for this prototype. It designs and manufactures pendant lights and other decorative fixtures for homes, hospitality and commercial interiors, combining natural materials such as brass, oak and hand-blown glass with efficient LED technology.",
-  "industry": "Decorative Lighting / Interior Design",
-  "founded": 2016,
-  "headquarters": "Fictional City, Sample Country",
-  "website": "https://www.lumenandline.example",
+  "name": "Private Label Candles",
+  "tagline": "Crafting Excellence Since 2001.",
+  "description": "Private Label Candles (PLC) is a Central Florida manufacturer of private label and unlabeled candles and home-fragrance products. Businesses can sell PLC-made products under their own brand, customizing the scent, vessel, label design and packaging, either with guidance from PLC's team or through the online 3D Product Designer. PLC also sells unlabeled (blank) products ready for customers' own branding, professional-use fragrance products by the gallon, and offers a fragrance library of over 90 scents plus custom fragrance development.",
+  "industry": "Private label candle and home fragrance manufacturing",
+  "founded": 2001,
+  "headquarters": "Central Florida, USA",
+  "website": "https://privatelabelcandles.com",
   "contact": {
-    "email": "hello@lumenandline.example",
-    "support_email": "support@lumenandline.example",
-    "projects_email": "projects@lumenandline.example",
-    "phone": "+1-555-0142",
-    "address": "12 Sample Street, Fictional City, Sample Country",
-    "business_hours": "Monday-Friday, 09:00-18:00"
+    "email": "customerservice@privatelabelcandles.com",
+    "phone": "+1 (786) 991-2260",
+    "other_emails": {
+      "design": "design@privatelabelcandles.com"
+    },
+    "address": null,
+    "business_hours": "Monday-Friday 9:00 AM - 5:30 PM; Saturday-Sunday closed",
+    "contact_page": "https://privatelabelcandles.com/pages/contact-us"
   },
   "product_categories": [
-    "Pendant Lights",
-    "Wall Lights",
-    "Ceiling Lights",
-    "Floor Lamps",
-    "Table Lamps",
-    "Custom Project Lighting"
+    "Private label candles",
+    "Unlabeled (blank) candles",
+    "Reed diffusers",
+    "Room sprays",
+    "Wax melts",
+    "Body lotion and body wash",
+    "Mini fragrance samples",
+    "Professional-use products by the gallon",
+    "Custom fragrances"
+  ],
+  "industries_served": [
+    "Retail",
+    "Spas",
+    "Hotels",
+    "Event planners",
+    "Gift shops",
+    "Corporate businesses"
   ],
   "services": [
-    "Lighting design consultation",
-    "Custom and bespoke fixtures for projects",
-    "Trade and hospitality supply"
+    "Private label manufacturing",
+    "3D Product Designer (online product configurator)",
+    "Label and packaging design assistance",
+    "Custom samples",
+    "Fragrance sample boxes",
+    "Custom fragrance development",
+    "Business scenting",
+    "Rush / expedite service",
+    "Financing via CreditKey (Buy Now, Pay Over Time)"
   ],
-  "note": "All company details are fictional sample data. Replace with real client information when available."
+  "standard_lead_time": "6-8 weeks for full orders (per the FAQ); rush service can reduce this to 3-4 weeks",
+  "note": "Compiled on 2026-11-17 from the public FAQ, Unlabeled Products and Fragrance Library pages of privatelabelcandles.com. Street address not listed on those pages."
 }

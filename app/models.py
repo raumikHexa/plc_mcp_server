@@ -6,19 +6,29 @@ They serve three purposes:
 3. Structured output - MCP tools can return them so AI clients see typed fields.
 """
 
+from typing import Literal
+
 from pydantic import BaseModel, Field
 
 
 class Product(BaseModel):
-    id: str = Field(description="Unique product ID, e.g. PND-001")
+    id: str = Field(description="Product ID (the website handle), e.g. '9-oz-jar'")
     name: str
-    category: str
-    materials: list[str]
-    finishes: list[str] = []
-    dimensions: dict[str, float] = Field(description="Sizes in millimetres, weight in kg")
-    description: str
-    specifications: dict[str, str]
-    suitable_for: list[str] = []
+    product_line: str = Field(description="Candle, Reed Diffuser, Room Spray, Body Lotion, Sample, Bulk Liquid ...")
+    collection: str = Field(description="Website collection the product belongs to")
+    size: str | None = Field(None, description="Container size, e.g. '9 oz', when stated on the website")
+    pack_quantity: int = Field(1, description="Units included in one order of this product")
+    pack_unit: str = Field("unit", description="What pack_quantity counts: unit, pcs, gallons ...")
+    unit_price: float | None = Field(None, description="Price per single unit / gallon in USD")
+    price_min: float = Field(description="Lowest price for one order (pack) in USD, across options")
+    price_max: float = Field(description="Highest price for one order (pack) in USD, across options")
+    currency: str = "USD"
+    prices_as_of: str = Field(description="Date the prices were copied from the website (YYYY-MM-DD)")
+    options: dict[str, list[str]] = Field(default_factory=dict, description="Choosable options, e.g. Jar Color")
+    description: str = ""
+    status: Literal["available", "coming_soon", "unavailable"] = "available"
+    url: str
+    image_url: str | None = None
 
 
 class Faq(BaseModel):
@@ -29,13 +39,26 @@ class Faq(BaseModel):
     tags: list[str] = []
 
 
+class Fragrance(BaseModel):
+    number: int = Field(description="Fragrance number in the library, e.g. 10 for '#10 Santal'")
+    name: str
+    notes: list[str] = Field(default_factory=list, description="Scent notes, e.g. ['Leather', 'Sandalwood', 'Amber']")
+    notes_text: str = Field("", description="Notes as written on the website")
+    categories: list[str] = Field(default_factory=list, description="Scent families, e.g. Woodsy, Floral")
+    top_seller: bool = False
+    is_new: bool = False
+    inspired_by: str | None = Field(None, description="Well-known scent this fragrance is inspired by, if stated")
+    remarks: str | None = None
+    url: str
+
+
 class Contact(BaseModel):
     email: str
-    support_email: str | None = None
-    projects_email: str | None = None
     phone: str | None = None
+    other_emails: dict[str, str] = Field(default_factory=dict, description="Purpose -> email, e.g. design")
     address: str | None = None
     business_hours: str | None = None
+    contact_page: str | None = None
 
 
 class Company(BaseModel):
@@ -48,5 +71,7 @@ class Company(BaseModel):
     website: str
     contact: Contact
     product_categories: list[str]
+    industries_served: list[str] = []
     services: list[str] = []
+    standard_lead_time: str | None = None
     note: str | None = None
