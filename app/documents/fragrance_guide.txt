@@ -1,0 +1,359 @@
+FRAGRANCE FAMILIES GUIDE
+
+NOTE: Generated on 2026-11-17 from public data on privatelabelcandles.com for prototype testing only. Replace with the official client document.
+
+The library has 93 fragrances. Each can be chosen for candles, reed diffusers, room sprays and other products. A fragrance can belong to several families.
+
+AQUATIC (6 fragrances)
+  #22 Pacific: Ocean Breeze [top seller]
+  #23 007: Patchouli, Bergamot & Cedar [new]
+  #64 Endless: Sea Breeze, Salt Water & White Jasime [new]
+  #65 Escape: Mediterranean Breeze
+  #75 Amalfi Coast: Fresh Citrus Ocean Mist [top seller]
+  #83 Poolside Cabana: White Floral, Sea Mist
+
+CITRUS (25 fragrances)
+  #4 Belize: Exotic Tropical Fruit & Juicy Citrus
+  #7 Cozy: Mélange of Spices & Evergreen [top seller]
+  #8 Desire: Peach Mango
+  #9 Devotion: Pomegranate & Ginger
+  #18 Gorgeous: Tangerine, Litsea & Clove
+  #19 Tropical Paradise: Dragon Fruit, Hibiscus & Mango [new]
+  #22 Pacific: Ocean Breeze [top seller]
+  #23 007: Patchouli, Bergamot & Cedar [new]
+  #25 Valley: Carnation, Lily of The Valley & Citrus [new]
+  #36 Peppy: Sweet Pea, Jasmine & Apple [top seller]
+  #40 Relaxation: Lavender, Bergamot [top seller]
+  #44 Savory: Sugar Coated Lemon
+  #45 Dahlia: Blood Orange & Grapefruit [top seller]
+  #49 Tranquility: Lemongrass & Wild Basil [top seller]
+  #54 Bliss: Sweet Mango [top seller]
+  #56 Amber Cashmere: Tobacco, Amber & Bergamot
+  #58 Flawless: Fresh Pine, Bergamot & Yuzu [new]
+  #60 Zen: Citrus, White Musk & Bamboo [new]
+  #62 Chance: Green Tea Lemon Zest [top seller]
+  #65 Escape: Mediterranean Breeze
+  #72 Parisian Dream: Jasmine, Orange & Patchouli [new]
+  #75 Amalfi Coast: Fresh Citrus Ocean Mist [top seller]
+  #81 Sexy Man
+  #93 Skyfall: Neroli, Jasmine & Musk
+  #96 Goji Orange: Goji Berry, Blood Orange & Mango [new]
+
+EARTHY (8 fragrances)
+  #6 Comfort: Honeyed Myrrh, Cedar & Patchouli
+  #31 Noble: Tobacco Shop [new]
+  #34 Aspen: Balsam Fir, Clove & Cinnamon [new]
+  #42 Palo Santo: Woodsy, Citrus & Pine
+  #48 Sublime: Pomegranate Sage [Our take on NOIR 29]
+  #51 Earth: Pure Patchouli [new]
+  #55 Winter: Balsam Fir [new]
+  #87 Heirloom: Tomato Vines, Basil & Spearmint [new]
+
+FEMININE (26 fragrances)
+  #2 Beautiful: Moroccan Amber
+  #3 Baby Powder
+  #8 Desire: Peach Mango
+  #12 Daydream: Sparkling Bergamot, Oakmoss & Lavender [new]
+  #14 Secret Affair: Soft Amber & Sandalwood [Our take on Baccarat Rouge 540)] [top seller]
+  #15 Blossom: Spring Blossoms, White Musk & Pears
+  #16 Balance: French Lavender, Thyme & Rosewood [new]
+  #17 Brilliance: Lotus Blossoms, Pomegranate & Musk [new]
+  #18 Gorgeous: Tangerine, Litsea & Clove
+  #24 Intrigue: Musky Amber & Rose *PREMIUM* [top seller]
+  #25 Valley: Carnation, Lily of The Valley & Citrus [new]
+  #26 Adore: Bergamot, Gardenia & Jasmine [new]
+  #28 Bloom: Black Currant, French Roses & Foliage [new]
+  #33 Crisp Linen: Clean Cotton, Lavender & White Musk
+  #36 Peppy: Sweet Pea, Jasmine & Apple [top seller]
+  #40 Relaxation: Lavender, Bergamot [top seller]
+  #41 Romance: Magnolia Gardenia
+  #47 Sassy: White Amber & Lily [top seller]
+  #68 Inviting: Jasmine, Tuberose & Musk [new]
+  #70 Pleasures: Musky Vanilla & Violet
+  #71 Calily: Jasmine & Lily
+  #77 Black Opium: Bergamot, Orange Blossom & Patchouli [new]
+  #79 Fresh Cut Roses
+  #83 Poolside Cabana: White Floral, Sea Mist
+  #91 Mademoiselle: Sandalwood Rose
+  #92 Timeless: Juniper Flower, Juicy Pear & Pine
+
+FLORAL (33 fragrances)
+  #2 Beautiful: Moroccan Amber
+  #4 Belize: Exotic Tropical Fruit & Juicy Citrus
+  #11 Mahogany Teak
+  #12 Daydream: Sparkling Bergamot, Oakmoss & Lavender [new]
+  #14 Secret Affair: Soft Amber & Sandalwood [Our take on Baccarat Rouge 540)] [top seller]
+  #15 Blossom: Spring Blossoms, White Musk & Pears
+  #16 Balance: French Lavender, Thyme & Rosewood [new]
+  #17 Brilliance: Lotus Blossoms, Pomegranate & Musk [new]
+  #18 Gorgeous: Tangerine, Litsea & Clove
+  #24 Intrigue: Musky Amber & Rose *PREMIUM* [top seller]
+  #25 Valley: Carnation, Lily of The Valley & Citrus [new]
+  #26 Adore: Bergamot, Gardenia & Jasmine [new]
+  #28 Bloom: Black Currant, French Roses & Foliage [new]
+  #36 Peppy: Sweet Pea, Jasmine & Apple [top seller]
+  #40 Relaxation: Lavender, Bergamot [top seller]
+  #41 Romance: Magnolia Gardenia
+  #47 Sassy: White Amber & Lily [top seller]
+  #50 Utopia: White Tea & Thyme [top seller]
+  #63 Seduction: Sandalwood & Jasmine [top seller]
+  #68 Inviting: Jasmine, Tuberose & Musk [new]
+  #70 Pleasures: Musky Vanilla & Violet
+  #71 Calily: Jasmine & Lily
+  #77 Black Opium: Bergamot, Orange Blossom & Patchouli [new]
+  #79 Fresh Cut Roses
+  #80 Revive: Green Apple, Jasmine & Lavender [new]
+  #83 Poolside Cabana: White Floral, Sea Mist
+  #84 Black Amber
+  #85 Indian Incense
+  #88 Lust: Mesquite Wood, Neroli & Oak Moss [top seller]
+  #91 Mademoiselle: Sandalwood Rose
+  #92 Timeless: Juniper Flower, Juicy Pear & Pine
+  #93 Skyfall: Neroli, Jasmine & Musk
+  #94 Secret Affair Intense: Soft Amber & Sandalwood [Our take on Baccarat Rouge 540] *PREMIUM*
+
+FRESH (31 fragrances)
+  #3 Baby Powder
+  #9 Devotion: Pomegranate & Ginger
+  #12 Daydream: Sparkling Bergamot, Oakmoss & Lavender [new]
+  #15 Blossom: Spring Blossoms, White Musk & Pears
+  #16 Balance: French Lavender, Thyme & Rosewood [new]
+  #18 Gorgeous: Tangerine, Litsea & Clove
+  #22 Pacific: Ocean Breeze [top seller]
+  #23 007: Patchouli, Bergamot & Cedar [new]
+  #25 Valley: Carnation, Lily of The Valley & Citrus [new]
+  #32 Eucalyptus Mint: Sweet Spearmint & Fresh Eucalyptus [Inspired by BBW Eucalyptus Spearmint]
+  #33 Crisp Linen: Clean Cotton, Lavender & White Musk
+  #40 Relaxation: Lavender, Bergamot [top seller]
+  #47 Sassy: White Amber & Lily [top seller]
+  #49 Tranquility: Lemongrass & Wild Basil [top seller]
+  #50 Utopia: White Tea & Thyme [top seller]
+  #55 Winter: Balsam Fir [new]
+  #58 Flawless: Fresh Pine, Bergamot & Yuzu [new]
+  #60 Zen: Citrus, White Musk & Bamboo [new]
+  #61 Unforgettable: Fresh Linen
+  #62 Chance: Green Tea Lemon Zest [top seller]
+  #64 Endless: Sea Breeze, Salt Water & White Jasime [new]
+  #65 Escape: Mediterranean Breeze
+  #72 Parisian Dream: Jasmine, Orange & Patchouli [new]
+  #75 Amalfi Coast: Fresh Citrus Ocean Mist [top seller]
+  #80 Revive: Green Apple, Jasmine & Lavender [new]
+  #81 Sexy Man
+  #83 Poolside Cabana: White Floral, Sea Mist
+  #87 Heirloom: Tomato Vines, Basil & Spearmint [new]
+  #92 Timeless: Juniper Flower, Juicy Pear & Pine
+  #93 Skyfall: Neroli, Jasmine & Musk
+  #96 Goji Orange: Goji Berry, Blood Orange & Mango [new]
+
+FRUITY (17 fragrances)
+  #4 Belize: Exotic Tropical Fruit & Juicy Citrus
+  #5 Blueberry Cobbler
+  #7 Cozy: Mélange of Spices & Evergreen [top seller]
+  #8 Desire: Peach Mango
+  #9 Devotion: Pomegranate & Ginger
+  #19 Tropical Paradise: Dragon Fruit, Hibiscus & Mango [new]
+  #30 Lush: Mango Guava [top seller]
+  #36 Peppy: Sweet Pea, Jasmine & Apple [top seller]
+  #37 Luscious: Spiced Pears
+  #44 Savory: Sugar Coated Lemon
+  #45 Dahlia: Blood Orange & Grapefruit [top seller]
+  #54 Bliss: Sweet Mango [top seller]
+  #76 Malibu: Coconut, Vanilla & Jasmine [new]
+  #78 Apple Cinnamon: Red Apples, Cinnamon & Vanilla
+  #80 Revive: Green Apple, Jasmine & Lavender [new]
+  #90 Island Coconut: Coconut, Mango & Vanilla [top seller]
+  #96 Goji Orange: Goji Berry, Blood Orange & Mango [new]
+
+GOURMAND (14 fragrances)
+  #5 Blueberry Cobbler
+  #13 Temptations: Vanilla Bean
+  #20 Havana: Cuban Vanilla
+  #21 Indulgence: Lemon Biscotti
+  #27 Love: Spiced Vanilla
+  #37 Luscious: Spiced Pears
+  #38 Pumpkin Chai
+  #44 Savory: Sugar Coated Lemon
+  #53 Java: Café Latte
+  #66 Sugar Pecans: Cinnamon Sugared Pecans
+  #67 Brown Sugar & Oud
+  #73 Crumb Cake
+  #78 Apple Cinnamon: Red Apples, Cinnamon & Vanilla
+  #86 White Chocolate Truffle Cake
+
+HOLIDAY (11 fragrances)
+  #1 Allure: Balsam Fir, Pine & Thyme [top seller]
+  #7 Cozy: Mélange of Spices & Evergreen [top seller]
+  #27 Love: Spiced Vanilla
+  #34 Aspen: Balsam Fir, Clove & Cinnamon [new]
+  #38 Pumpkin Chai
+  #59 Dusk: Leather & Oud
+  #66 Sugar Pecans: Cinnamon Sugared Pecans
+  #67 Brown Sugar & Oud
+  #73 Crumb Cake
+  #78 Apple Cinnamon: Red Apples, Cinnamon & Vanilla
+  #85 Indian Incense
+
+MASCULINE (12 fragrances)
+  #6 Comfort: Honeyed Myrrh, Cedar & Patchouli
+  #10 Santal: Cedarwood, Leather & Sandalwood [top seller]
+  #11 Mahogany Teak
+  #23 007: Patchouli, Bergamot & Cedar [new]
+  #29 Brawn: Cedar, Leather & Amber [new]
+  #31 Noble: Tobacco Shop [new]
+  #39 Bourbon: Apple Maple Bourbon [new]
+  #42 Palo Santo: Woodsy, Citrus & Pine
+  #46 My Way: Leather, Sandalwood & Amber [new]
+  #59 Dusk: Leather & Oud
+  #81 Sexy Man
+  #88 Lust: Mesquite Wood, Neroli & Oak Moss [top seller]
+
+MUSK (24 fragrances)
+  #2 Beautiful: Moroccan Amber
+  #6 Comfort: Honeyed Myrrh, Cedar & Patchouli
+  #10 Santal: Cedarwood, Leather & Sandalwood [top seller]
+  #11 Mahogany Teak
+  #24 Intrigue: Musky Amber & Rose *PREMIUM* [top seller]
+  #28 Bloom: Black Currant, French Roses & Foliage [new]
+  #29 Brawn: Cedar, Leather & Amber [new]
+  #31 Noble: Tobacco Shop [new]
+  #42 Palo Santo: Woodsy, Citrus & Pine
+  #46 My Way: Leather, Sandalwood & Amber [new]
+  #48 Sublime: Pomegranate Sage [Our take on NOIR 29]
+  #51 Earth: Pure Patchouli [new]
+  #52 Smokey Bliss: Vanilla Sandalwood [new]
+  #56 Amber Cashmere: Tobacco, Amber & Bergamot
+  #59 Dusk: Leather & Oud
+  #63 Seduction: Sandalwood & Jasmine [top seller]
+  #67 Brown Sugar & Oud
+  #68 Inviting: Jasmine, Tuberose & Musk [new]
+  #70 Pleasures: Musky Vanilla & Violet
+  #74 Vanilla Oak
+  #77 Black Opium: Bergamot, Orange Blossom & Patchouli [new]
+  #84 Black Amber
+  #85 Indian Incense
+  #88 Lust: Mesquite Wood, Neroli & Oak Moss [top seller]
+
+SWEET (26 fragrances)
+  #5 Blueberry Cobbler
+  #7 Cozy: Mélange of Spices & Evergreen [top seller]
+  #13 Temptations: Vanilla Bean
+  #14 Secret Affair: Soft Amber & Sandalwood [Our take on Baccarat Rouge 540)] [top seller]
+  #19 Tropical Paradise: Dragon Fruit, Hibiscus & Mango [new]
+  #20 Havana: Cuban Vanilla
+  #21 Indulgence: Lemon Biscotti
+  #27 Love: Spiced Vanilla
+  #30 Lush: Mango Guava [top seller]
+  #35 Patience: Tobacco & Vanilla [top seller]
+  #36 Peppy: Sweet Pea, Jasmine & Apple [top seller]
+  #37 Luscious: Spiced Pears
+  #38 Pumpkin Chai
+  #39 Bourbon: Apple Maple Bourbon [new]
+  #44 Savory: Sugar Coated Lemon
+  #45 Dahlia: Blood Orange & Grapefruit [top seller]
+  #52 Smokey Bliss: Vanilla Sandalwood [new]
+  #53 Java: Café Latte
+  #54 Bliss: Sweet Mango [top seller]
+  #66 Sugar Pecans: Cinnamon Sugared Pecans
+  #67 Brown Sugar & Oud
+  #73 Crumb Cake
+  #74 Vanilla Oak
+  #76 Malibu: Coconut, Vanilla & Jasmine [new]
+  #78 Apple Cinnamon: Red Apples, Cinnamon & Vanilla
+  #90 Island Coconut: Coconut, Mango & Vanilla [top seller]
+
+UNISEX (70 fragrances)
+  #1 Allure: Balsam Fir, Pine & Thyme [top seller]
+  #3 Baby Powder
+  #4 Belize: Exotic Tropical Fruit & Juicy Citrus
+  #5 Blueberry Cobbler
+  #6 Comfort: Honeyed Myrrh, Cedar & Patchouli
+  #7 Cozy: Mélange of Spices & Evergreen [top seller]
+  #8 Desire: Peach Mango
+  #9 Devotion: Pomegranate & Ginger
+  #10 Santal: Cedarwood, Leather & Sandalwood [top seller]
+  #13 Temptations: Vanilla Bean
+  #15 Blossom: Spring Blossoms, White Musk & Pears
+  #18 Gorgeous: Tangerine, Litsea & Clove
+  #19 Tropical Paradise: Dragon Fruit, Hibiscus & Mango [new]
+  #20 Havana: Cuban Vanilla
+  #21 Indulgence: Lemon Biscotti
+  #22 Pacific: Ocean Breeze [top seller]
+  #23 007: Patchouli, Bergamot & Cedar [new]
+  #25 Valley: Carnation, Lily of The Valley & Citrus [new]
+  #27 Love: Spiced Vanilla
+  #29 Brawn: Cedar, Leather & Amber [new]
+  #30 Lush: Mango Guava [top seller]
+  #31 Noble: Tobacco Shop [new]
+  #32 Eucalyptus Mint: Sweet Spearmint & Fresh Eucalyptus [Inspired by BBW Eucalyptus Spearmint]
+  #33 Crisp Linen: Clean Cotton, Lavender & White Musk
+  #34 Aspen: Balsam Fir, Clove & Cinnamon [new]
+  #35 Patience: Tobacco & Vanilla [top seller]
+  #36 Peppy: Sweet Pea, Jasmine & Apple [top seller]
+  #37 Luscious: Spiced Pears
+  #38 Pumpkin Chai
+  #39 Bourbon: Apple Maple Bourbon [new]
+  #40 Relaxation: Lavender, Bergamot [top seller]
+  #41 Romance: Magnolia Gardenia
+  #42 Palo Santo: Woodsy, Citrus & Pine
+  #44 Savory: Sugar Coated Lemon
+  #45 Dahlia: Blood Orange & Grapefruit [top seller]
+  #48 Sublime: Pomegranate Sage [Our take on NOIR 29]
+  #49 Tranquility: Lemongrass & Wild Basil [top seller]
+  #50 Utopia: White Tea & Thyme [top seller]
+  #51 Earth: Pure Patchouli [new]
+  #52 Smokey Bliss: Vanilla Sandalwood [new]
+  #53 Java: Café Latte
+  #54 Bliss: Sweet Mango [top seller]
+  #55 Winter: Balsam Fir [new]
+  #56 Amber Cashmere: Tobacco, Amber & Bergamot
+  #59 Dusk: Leather & Oud
+  #60 Zen: Citrus, White Musk & Bamboo [new]
+  #61 Unforgettable: Fresh Linen
+  #62 Chance: Green Tea Lemon Zest [top seller]
+  #63 Seduction: Sandalwood & Jasmine [top seller]
+  #64 Endless: Sea Breeze, Salt Water & White Jasime [new]
+  #65 Escape: Mediterranean Breeze
+  #66 Sugar Pecans: Cinnamon Sugared Pecans
+  #67 Brown Sugar & Oud
+  #72 Parisian Dream: Jasmine, Orange & Patchouli [new]
+  #73 Crumb Cake
+  #74 Vanilla Oak
+  #75 Amalfi Coast: Fresh Citrus Ocean Mist [top seller]
+  #78 Apple Cinnamon: Red Apples, Cinnamon & Vanilla
+  #79 Fresh Cut Roses
+  #80 Revive: Green Apple, Jasmine & Lavender [new]
+  #83 Poolside Cabana: White Floral, Sea Mist
+  #84 Black Amber
+  #85 Indian Incense
+  #86 White Chocolate Truffle Cake
+  #87 Heirloom: Tomato Vines, Basil & Spearmint [new]
+  #88 Lust: Mesquite Wood, Neroli & Oak Moss [top seller]
+  #90 Island Coconut: Coconut, Mango & Vanilla [top seller]
+  #92 Timeless: Juniper Flower, Juicy Pear & Pine
+  #93 Skyfall: Neroli, Jasmine & Musk
+  #94 Secret Affair Intense: Soft Amber & Sandalwood [Our take on Baccarat Rouge 540] *PREMIUM*
+
+WOODSY (20 fragrances)
+  #6 Comfort: Honeyed Myrrh, Cedar & Patchouli
+  #10 Santal: Cedarwood, Leather & Sandalwood [top seller]
+  #11 Mahogany Teak
+  #14 Secret Affair: Soft Amber & Sandalwood [Our take on Baccarat Rouge 540)] [top seller]
+  #24 Intrigue: Musky Amber & Rose *PREMIUM* [top seller]
+  #29 Brawn: Cedar, Leather & Amber [new]
+  #31 Noble: Tobacco Shop [new]
+  #34 Aspen: Balsam Fir, Clove & Cinnamon [new]
+  #35 Patience: Tobacco & Vanilla [top seller]
+  #39 Bourbon: Apple Maple Bourbon [new]
+  #42 Palo Santo: Woodsy, Citrus & Pine
+  #46 My Way: Leather, Sandalwood & Amber [new]
+  #48 Sublime: Pomegranate Sage [Our take on NOIR 29]
+  #51 Earth: Pure Patchouli [new]
+  #52 Smokey Bliss: Vanilla Sandalwood [new]
+  #55 Winter: Balsam Fir [new]
+  #56 Amber Cashmere: Tobacco, Amber & Bergamot
+  #59 Dusk: Leather & Oud
+  #63 Seduction: Sandalwood & Jasmine [top seller]
+  #72 Parisian Dream: Jasmine, Orange & Patchouli [new]
+
+TOP SELLERS
+  #1 Allure, #7 Cozy, #10 Santal, #14 Secret Affair, #22 Pacific, #24 Intrigue, #30 Lush, #35 Patience, #36 Peppy, #40 Relaxation, #45 Dahlia, #47 Sassy, #49 Tranquility, #50 Utopia, #54 Bliss, #62 Chance, #63 Seduction, #75 Amalfi Coast, #88 Lust, #90 Island Coconut

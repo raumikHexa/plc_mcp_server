@@ -52,6 +52,13 @@ class Fragrance(BaseModel):
     url: str
 
 
+class DocumentMatch(BaseModel):
+    filename: str = Field(description="Document the passage comes from, e.g. product_catalogue.pdf")
+    page: int | None = Field(None, description="PDF page number (1-based); None for TXT files")
+    snippet: str = Field(description="The matching passage of text")
+    score: int = Field(description="Relevance score; higher is better")
+
+
 class Contact(BaseModel):
     email: str
     phone: str | None = None

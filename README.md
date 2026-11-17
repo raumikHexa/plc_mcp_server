@@ -28,8 +28,13 @@ Then open http://127.0.0.1:8000/health or the Swagger UI at http://127.0.0.1:800
 ## Run tests
 
 ```powershell
-pytest
+python -m pytest -q
 ```
+
+Always run venv tools through `python -m ...` (e.g. `python -m pytest`, `python -m uvicorn`).
+On machines with Windows Application Control / Smart App Control, the unsigned
+`.exe` launchers in `.venv\Scripts\` (like `pytest.exe`) can be blocked, while
+`python.exe` is allowed.
 
 ## Data: importing the catalogue
 
@@ -45,6 +50,20 @@ python -m scripts.import_catalogue build      # raw files -> app/data/products.j
 - `build` is offline and repeatable; cleaning rules live in `scripts/import_catalogue.py`.
 - `app/data/company.json` is maintained by hand from the same pages.
 - Prices carry a `prices_as_of` date; the FAQ is treated as the source of truth where pages disagree.
+
+## Documents
+
+Any `.txt` or `.pdf` file placed directly in `app/documents/` is searchable
+(subfolders and other file types are ignored). Text is extracted once and cached
+until the file changes.
+
+The current files are **generated samples** built from the website data:
+
+```powershell
+python -m scripts.make_sample_documents   # product_catalogue.pdf, company_profile.pdf, fragrance_guide.txt
+```
+
+Replace them with official client documents when available.
 
 ## Configuration
 
